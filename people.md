@@ -38,7 +38,7 @@ question on the mailing list anyway. There are also a fair share of "I do not
 want to air my problem or question in the public because of reasons."
 
 Dealing with issues privately scales very badly. The questions are often
-similar and are much better faken care of in public so that many people can
+similar and are much better taken care of in public so that many people can
 learn from the response and many people can help out to provide the responses
 in the first place.
 

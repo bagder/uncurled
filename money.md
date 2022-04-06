@@ -10,7 +10,7 @@ our heads. Open Source maintainers also need money.
 
  Being in the core team of a popular open source project will lead you to
  getting requests to do development for compensation within the realms of that
- project. you will learn that companies are at times willing to pay you to get
+ project. You will learn that companies are at times willing to pay you to get
  their desired features added in your project so that they can use it - and
  they know that paying a core developer is possibly the best way to get a
  feature into a project's mainline code.
