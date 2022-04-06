@@ -26,9 +26,9 @@ fixing them!
 Occasionally when people find problems or design decisions in your project or
 product that they disagree with, they will deliver this message to the project
 in a very aggressive way (reasons for this may involve that digital
-communication make blunt tools, language barriers and more). Don't be
-surprised to read insults and insinuations about not knowing what you're doing
-even if you've worked on the project for ten years and this bug reporter tried
+communication make blunt tools, language barriers and more). Do not be
+surprised to read insults and insinuations about not knowing what you are doing
+even if you have worked on the project for ten years and this bug reporter tried
 it for the first time yesterday... One of the hardest things to do as a
 maintainer is to bite your tongue and answer politely and friendly. You will
 not gain any bonus points nor any new friends by lowering yourself to the
