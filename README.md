@@ -4,7 +4,7 @@ Open Source - how hard can it be?
 
 I have been actively involved in open source development since the early 1990s
 when I discovered the phenomenon of people writing source code they give away
-for free to use and modify under a certain license.
+freely for others to use and modify under a certain license.
 
 I have started, lead and maintained many projects over several decades, out of
 which the most known one is probably [the cURL project](https://curl.se) I

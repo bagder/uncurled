@@ -7,18 +7,18 @@ are social and complicated creatures.
 
 ## People assume everything is well motivated
 
-Time and time again I get reports from people who have questions about stuff
-in the code or about certain behavior. They assume that since it is done in a
-special way in the code it is done so by careful research and precise coding
-resulted in those choices and thus they do not complain or ask about it to us
-and instead write angry blog posts somewhere else.
+I repeatedly get reports and issues filed from people who have questions about
+stuff in the code or about certain behavior. They assume that since it is done
+in a special way in the code it is done so by careful research and precise
+coding resulted in those choices and thus they do not complain or ask about it
+to us and instead write angry blog posts somewhere else.
 
-The truth is that development is to a large degree trial and error and unless
-someone reports a problem with a particular solution, it often sticks. Even
-though it might not be perfect and perhaps over time turns out to be a rather
-half-baked way. Many are also the fixes that are "temporary" and then just
-never get around to get modified or fixed. And why change something that
-works?
+The truth is that development is to a large degree evolutionary and unless
+someone reports a problem with a particular solution, it often sticks the way
+it was done when it was first made to work. Even though it might not be
+perfect and perhaps over time turns out to be a rather half-baked way. Many
+are also the fixes that are "temporary" and then just never get around to get
+modified or fixed. And why change something that works?
 
 Not to mention that most project also have a list of things they would like to
 change or fix one day but that nobody ever gets around to actually doing.
@@ -37,14 +37,14 @@ person they believe has the answers and would be the one who would answer the
 question on the mailing list anyway. There are also a fair share of "I do not
 want to air my problem or question in the public because of reasons."
 
-Dealing with issues privately scales very badly. The questions are often
-similar and are much better taken care of in public so that many people can
-learn from the response and many people can help out to provide the responses
-in the first place.
+Dealing with issues privately scales terribly. The questions are often similar
+and are much better taken care of in public so that many people can learn from
+the response and many people can help out to provide the responses in the
+first place.
 
-I personally push back strongly on this behavior and either the user either
-takes the issue to the proper public forum, or ask for a support contract
-setup to maintain the private discussion.
+I push back strongly on this behavior and either the user need to take the
+issue to the proper public forum, or ask for a support contract setup to
+maintain the private discussion.
 
 ## People will provide feedback on irrelevant places
 

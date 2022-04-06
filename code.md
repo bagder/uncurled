@@ -3,8 +3,8 @@
 ## Do not accept undocumented code
 
 Do not accept badly documented or badly tested code into the project.
-Sometimes it is very tempting when the feature is nice and something you have
-been wanting for a long while but have not yet been able to do yourself.
+Sometimes it is tempting when the feature is nice and something you have been
+wanting for a long while but have not yet been able to do yourself.
 You. Must. Resist. It will haunt you and bounce back at you in the future and
 bite.
 
@@ -30,17 +30,17 @@ Only proper releases get tested for real. You can beg users to try pre
 releases or beta packages, but only once you actually release a "stable"
 release you will get the extent of the testing that you want and need. That
 includes if you for example mark something deprecated or obsoleted it does not
-matter at all even if they remain so for a very long time as it will only be
-truly effective until you ship the first release with the change and then
-people will react (and some will yell at you).
+matter at all even if they remain so for an extended period of time as it will
+only be truly effective until you ship the first release with the change and
+then people will react (and some will yell at you).
 
 ## Once merged, you own it
 
 If you merge someone's incomplete patch because it shows progress and is in
 the right spirit, be prepared to finish off all the other details yourself
-since the merge is very often seen as the final station for contributors. You
-need to reject and ask for improvements before the code goes in to make sure
-the contributor stays willing to work on and polish the code.
+since the merge is often seen as the final station for contributors. You need
+to reject and ask for improvements before the code goes in to make sure the
+contributor stays willing to work on and polish the code.
 
 ## Security problems will appear
 

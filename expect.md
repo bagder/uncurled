@@ -25,21 +25,21 @@ fixing them!
 
 Occasionally when people find problems or design decisions in your project or
 product that they disagree with, they will deliver this message to the project
-in a very aggressive way (reasons for this may involve that digital
-communication make blunt tools, language barriers and more). Do not be
-surprised to read insults and insinuations about not knowing what you are doing
-even if you have worked on the project for ten years and this bug reporter tried
-it for the first time yesterday... One of the hardest things to do as a
-maintainer is to bite your tongue and answer politely and friendly. You will
-not gain any bonus points nor any new friends by lowering yourself to the
-attacker's level and (try to) deliver insults back.
+in an aggressive way (reasons for this may involve that digital communication
+make blunt tools, language barriers and more). Do not be surprised to read
+insults and insinuations about not knowing what you are doing even if you have
+worked on the project for ten years and this bug reporter tried it for the
+first time yesterday... One of the hardest things to do as a maintainer is to
+bite your tongue and answer politely and friendly. You will not gain any bonus
+points nor any new friends by lowering yourself to the attacker's level and
+(try to) deliver insults back.
 
 You will learn that you have chosen the wrong language (no matter which
 language you use), the wrong technology (either its too old, too stupid, too
 clever or whatever that can be wrong), that your software does not solve the
 problem the user has (even if it never was meant to do what the user wants it
 to do or if the person simply has not understood how to make it do it). And
-you will get told this in a very hostile way.
+you will get told this in a hostile way.
 
 As you want your project to ooze of friendliness and cooperation, you do not
 want a sour message from a project maintainer to remain in the public to scare
@@ -53,8 +53,8 @@ prepared that it will happen.
 
 Getting your code into Linux distributions or into other commercial unix
 distributions or companion packages etc is great fun but happens without you
-getting to know about it, and you also very rarely get any comments or
-feedback from those users.
+getting to know about it, and you also rarely get any comments or feedback
+from those users.
 
 Heck, even other application authors or product manufacturers will just get
 your stuff and use it and not tell you (and neither are they obliged to of
@@ -73,21 +73,21 @@ your spare time...
 
 Linux (and other sorts of) distributions that ship your product will at times
 "absorb" bug reports since users tend to report them to their distro instead
-of the upstream project, and not all distros are very good at passing on the
-bug reports to and cooperate with the upstream project (us).
+of the upstream project, and not all distros excel at passing on the bug
+reports to and cooperate with the upstream project (us).
 
 Therefore, some legitimate bugs are reported by users but you never see them
 and they sit lingering and slowly rottening in some distro's bug tracker...
 
 ## Contributors will not stick around
 
-Hardly anyone will stick around. People contribute a lot, but very few
-actually care for the "big picture" and stay around to work with the project
-for more than a short while to get their changes incorporated. You should more
-or less expect that the person who just brought you the most excellent bug fix
-will not be around anymore once you have pushed their patch...
+Hardly anyone will stick around. People contribute a lot, but few actually
+care for the "big picture" and stay around to work with the project for more
+than a short while to get their changes incorporated. You should more or less
+expect that the person who just brought you the most excellent bug fix will
+not be around anymore once you have pushed their patch...
 
-# Even old very well tested code will be questioned by the know-it-best people
+# Even old and well tested code will be questioned by the know-it-best people
 
 The opposite of the previous paragraph. No matter how well tested and proven a
 particular functionality or piece of code is, every now and then the

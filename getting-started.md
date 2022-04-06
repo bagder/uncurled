@@ -3,8 +3,8 @@
 There has never been a better time to get started with Open Source or to
 release your project as Open Source than right now. There are better and more
 *free* and no-cost infrastructure available than ever before. There are
-probably also more Open Source developers out there in an Open Source community
-that never has been this large before.
+probably also more Open Source developers out there in a community that never
+has been this large before.
 
 Now is a perfect time to get into Open Source.
 
@@ -39,7 +39,7 @@ how it should be allowed to be used or not. Whatever your choice lands on, you
 can be certain that there will sooner or later be someone with opinions about
 the one you picked who would prefer you use another.
 
-It might not be very easy to change the license down the line.
+It might not be easy to change the license down the line.
 
 ## Attracting developers and a community
 
