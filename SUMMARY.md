@@ -1,4 +1,4 @@
-* [Getting started](gettting-started.md)
+* [Getting started](getting-started.md)
 * [Expect this](expect.md)
 * [Source code](code.md)
 * [People](people.md)
