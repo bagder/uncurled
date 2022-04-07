@@ -7,6 +7,7 @@ tool-chain:toolchain
 wild-card:wildcard
 wild card:wildcard
 i'm:I am
+I've:I have
 you've:You have
 they're:They are
 should've:should have
