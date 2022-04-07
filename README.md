@@ -13,8 +13,13 @@ participated in many more projects and I have of course used and kept myself
 up-to-date with a large amount of projects in which I did not personally
 participate.
 
-I have worked exclusively with Open Source professionally since 2014 for
-Mozilla and since 2019 for wolfSSL.
+I first learned to program on the Commodore 64 as a teenager 1985 and after
+some years I transitioned over to C programming, first on Amiga and then on
+Unix systems. I released my first source code to the public in the early
+1990s - years before the term Open Source was first coined. I have since then
+spent many hours every week through-out my entire life contributing to Open
+Source projects, my own and others'. I have worked exclusively with Open
+Source professionally since 2014 for Mozilla and since 2019 for wolfSSL.
 
 Because of my background and life with Open Source and probably a lot because
 of the relative successes some of my projects have had, I frequently get
