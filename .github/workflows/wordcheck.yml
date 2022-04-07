@@ -1,0 +1,23 @@
+name: wordcheck
+
+on:
+  # Trigger the workflow on push or pull requests, but only for the
+  # main branch
+  push:
+    branches:
+    - main
+    - '*/ci'
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  check:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: check 
+      run: make wordcheck
