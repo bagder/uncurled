@@ -62,7 +62,7 @@ Suddenly a user will appear out of the blue and report problems or have a
 question and it gets revealed that said user has a version of your software
 installed that you thought were long forgotten and extinct.
 
-Open source versions once released find their ways to some places that just
+Open Source versions once released find their ways to some places that just
 then obviously never again upgrade. But surely, if it works why fix it?
 
 The downside for these users is of course that they then have not gotten any
