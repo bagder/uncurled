@@ -41,12 +41,3 @@ the right spirit, be prepared to finish off all the other details yourself
 since the merge is often seen as the final station for contributors. You need
 to reject and ask for improvements before the code goes in to make sure the
 contributor stays willing to work on and polish the code.
-
-## Security problems will appear
-
-Security is hard and flaws easily creep in. Be humble and prepared to act when
-(not if) such problems are reported. Also, be prepared that changes you
-thought nobody cared about or used will get some serious attention and get
-flamed badly once a security flaw is pointed out and gets handled by the
-public. This is not saying that you cannot have processes and develop code to
-be more secure than others. You can and you should.
