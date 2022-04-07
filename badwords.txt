@@ -1,0 +1,22 @@
+back-end:backend
+e-mail:email
+run-time:runtime
+set-up:setup
+tool chain:toolchain
+tool-chain:toolchain
+wild-card:wildcard
+wild card:wildcard
+i'm:I am
+you've:You have
+they're:They are
+should've:should have
+don't:do not
+could've:could have
+doesn't:does not
+isn't:is not
+ a html: an html
+ a http: an http
+ a ftp: an ftp
+ url =URL
+internet=Internet
+isation:ization
