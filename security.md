@@ -7,7 +7,7 @@ A project should be judged based on how it acts on security problem much more
 than the mere fact that the problems appeared the first place. Even the best
 run projects will have occasional hiccups, but projects that do not take care
 of and handle their security vulnerabilities in a proper and responsible way
-will loose users' trust. And without trust, what are your project?
+will loose users' trust. And without trust, what is your project?
 
 ## Security problems will appear
 
