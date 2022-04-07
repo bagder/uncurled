@@ -2,7 +2,7 @@
 
 Open Source - how hard can it be?
 
-I have been actively involved in open source development since the early 1990s
+I have been actively involved in Open Source development since the early 1990s
 when I discovered the phenomenon of people writing source code they give away
 freely for others to use and modify under a certain license.
 
@@ -20,7 +20,7 @@ Because of my background and life with Open Source and probably a lot because
 of the relative successes some of my projects have had, I frequently get
 questions about subjects related to maintaining Open Source. How to run a
 project and what makes them succeed? For a long time I have been collecting
-lessons from my life with open source into a list of advice for fellow open
+lessons from my life with Open Source into a list of advice for fellow open
 source library hackers. This document is my attempt to convert those thoughts
 and experiences into words.
 
