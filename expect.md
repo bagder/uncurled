@@ -87,7 +87,7 @@ than a short while to get their changes incorporated. You should more or less
 expect that the person who just brought you the most excellent bug fix will
 not be around anymore once you have pushed their patch...
 
-# Even old and well tested code will be questioned by the know-it-best people
+## Even old and well tested code will be questioned by the know-it-best people
 
 The opposite of the previous paragraph. No matter how well tested and proven a
 particular functionality or piece of code is, every now and then the
@@ -98,3 +98,17 @@ persons on the planet. When it happens (when, not if), just stay calm, polite
 and use reason and arguments. If that fails, my personal way is usually to
 slowly get involved as little as possible in such conversations.
 
+## People hide their origins
+
+Even employees at large tech companies or producers of high volume devices
+that your Open Source project will show up asking questions and demanding
+actions, using seemingly anonymous or personal-looking email addresses. It is
+a common practise to avoid using the company domain in emails to mailing lists
+to avoid too easily revealing their association.
+
+Sometimes this may of course be because said employee is actually working on a
+side project on their spare time and truly is an invidual asking for help, but
+in other cases it is done to hide for competitors that company X uses this
+project, to make the user avoid comments (or hostility) from others about
+company X but also to avoid it appearing as if company X that is making a lot
+of money of their product looking for freebies (which they might be).
