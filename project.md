@@ -100,3 +100,5 @@ project?"
 ## Clean up your backyard
 
 ## The project is we, not "I" nor "you"
+
+## Contributor License Agreements (CLAs)
