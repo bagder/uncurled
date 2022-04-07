@@ -4,20 +4,20 @@ name: Markdown links
 
 on:
   # Trigger the workflow on push or pull requests, but only for the
-  # master branch
+  # main branch
   push:
     branches:
-    - master
+    - main
     - '*/ci'
   pull_request:
     branches:
-    - master
+    - main
 
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         use-quiet-mode: 'yes'

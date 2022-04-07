@@ -2,14 +2,14 @@ name: wordcheck
 
 on:
   # Trigger the workflow on push or pull requests, but only for the
-  # master branch
+  # main branch
   push:
     branches:
-    - master
+    - main
     - '*/ci'
   pull_request:
     branches:
-    - master
+    - main
 
 jobs:
   check:
