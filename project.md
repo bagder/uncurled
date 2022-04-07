@@ -95,9 +95,11 @@ opportunities and new shiny technology you wanted to play around.
 Do you have any personal guidelines that help you staying that long on a
 project?"
 
-## Your choice of license will be questioned
-
 ## Clean up your backyard
+
+## Supervise and help out your "neighbors"
+
+## Open standards are your friends
 
 ## The project is we, not "I" nor "you"
 
