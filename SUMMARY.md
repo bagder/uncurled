@@ -5,7 +5,7 @@
   * [c-ares](mine/c-ares.md)
   * [libssh2](mine/libssh2.md)
   * [Firefox](mine/firefox.md)
-* [Getting started](getting-started.md)
+* [Getting started](start.md)
 * [Expect this](expect.md)
 * [Source code](code.md)
 * [People](people.md)
