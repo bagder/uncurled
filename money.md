@@ -8,7 +8,7 @@ our heads. Open Source maintainers also need money.
 
 When a large portion, or even all, of the work in a project is done by
 volunteers rather than paid staff or employees at a company, the dynamics
-becomes a litte different than what they are on a typical commercial software
+becomes a little different than what they are on a typical commercial software
 project.
 
 You cannot *demand* or require that someone works on a particular area,
@@ -21,7 +21,7 @@ their employer experienced or deemed important. Not because of priorities you
 might have in your project.
 
 A large portion of volunteers makes it hard to plan and predict how and where
-the project will go. That is just fine, you just have to learn with and adap
+the project will go. That is just fine, you just have to learn with and adapt
 to it.
 
 Be aware that adding money and compensations to such a project is complicated.
@@ -53,7 +53,7 @@ would accept and do the job.
 
 In more situations than not, the paying company would then ask for and prefer
 that I maintain all copyrights for all the changes and that I not make it
-publicly noticable that this was in fact paid for by this company. For the
+publicly noticeable that this was in fact paid for by this company. For the
 casual outsider, it appears as if I just had a period if extra motivation and
 energy and one fine day delivered this feature.
 
