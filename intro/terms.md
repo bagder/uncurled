@@ -25,10 +25,11 @@ a more commercially friendly phrase and concept than how many people perceived
 ## Free Software 
 
 The Free Software movement is oriented around the Free Software Foundation
-that was created in 1985. Free Software has 4 freedoms that decide if a
-software qualifies. The freedom to run it for any purpose, to study how it
-works and to change it, to redistribute it and to redistribute modified
-versions.
+that was created in 1985. Free Software has their [four
+freedoms](https://www.gnu.org/philosophy/free-sw.html#four-freedoms) that
+decide if a software qualifies. The freedom to run it for any purpose, to
+study how it works and to change it, to redistribute it and to redistribute
+modified versions.
 
 Note that there is no mentioning of *price* or *commercial* in there. Free is
 used here as in *freedom*, not as in price or cost.
