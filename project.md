@@ -5,9 +5,63 @@ to achieve a particular aim."*
 
 ## "Just a bunch of people"
 
-- usually not formal nor any legal entity
-- usually nothing to "join"
-- usually you get roles and responsibility by showing will and skill 
+An Open Source project is people cooperatively improving a product. People
+from somewhere you never met or spoken to before, who wants to help improve or
+change the project.
+
+Contributors show up and they might have a different idea of what the project
+should do and will most likely have another driving force behind their
+commitment than you do. Because why would it be the same?
+
+Most Open Source projects are formed around a name somewhere. Perhaps on a
+hosting platform that holds source code and offers project admin services. The
+name is not always unique, it is not always good and it is not always
+describing what the project actually does.
+
+The project is rarely a formal or legal entity anywhere, at least as a start.
+Many projects that succeeds, later grow up and turn into more formal
+organizations, or join other unmbrella organizations to become part of them -
+and some are even run and own by companies in the first place that then own
+the name and maybe even associated resources. But some projects remain
+collected solely under that name.
+
+In most projects there is nothing formal to "join" when you want to start
+contributing. You usually just show up, ask questions, answer questions,
+submit bug reports or send in your proposed changes and improvements. When
+nobody has seen your name or contributions done by you before, you might meet
+a level of healthy skepticism and questions, but if you are well-meaning and
+do good, you will find friends and get accepted quickly in most communities.
+There are virtually no existing Open Source project that will not welcome and
+celebrate new and fresh blood cortibuting in the project.
+
+Usually you get roles and responsibility over time by showing will and skill.
+Once you have proven yourself and the face that you stick around, you can
+start reviewing others' work or maybe even get responsibilities over areas,
+particular services or topics.
+
+## People come and go
+
+As a project maintainer, you learn that people truly come and go all the time.
+
+Without knowing where from or how they found you and your project, you can
+find an awesome and well-written improvement provided to the project on a
+rainy Tuesday morning from a name you have never seen before. Other times, you
+will find the project completely deserted and that you are the only one to
+have done any changes to it for an extended period of time.
+
+The contributors who flocked to the project just a while ago and who helped
+with so much stuff, added good code and helped answering questions from new
+users just suddenly vanish.
+
+The low barrier to entry is also a low barrier to exit. People get bored, they
+change jobs, they find spouses, they get kids, they switch to a competing
+project - in a sense, every other Open Source project in existance is a
+competitor as in they also want the time and energy from contributors and
+every contributor only have their limit amount of time and energy to spend on
+Open Source.
+
+People will leave your project too. Sometimes in the most inconvenient
+moments.
 
 ## It is never finished
 
@@ -23,6 +77,15 @@ For individual authors and maintainers, the work on a project can of course
 end when they decide to just stop participating in that project.
 
 ## Over time, you will spend most time on maintenance and support
+
+When starting an Open Source project there is a lot of code to write and to
+polish. Maybe even to rewrite. Lots of features to add.
+
+Over time, software projects tend to mature and the speed and frequency of
+which you add features slow down and more time is spent on fixing bugs.
+Architectural questions become harder and you get more technical dept that
+locks you into sticking to certain ways. Or at least they make new features
+require a larger effort than they did early on in the project.
 
 I do most of my work in the curl project answering email, trying to reproduce
 and understand people's bug reports, clarifying documentation or blogging
