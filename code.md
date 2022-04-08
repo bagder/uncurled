@@ -16,14 +16,6 @@ project) will fix the symptoms of bugs rather than the actual causes. Digging
 up the real underlying cause and its reason can be a lot of work and by nature
 people avoid "a lot of work" if at all possible...
 
-## Newcomers can make miracles too
-
-There are lots of clever people in the world. Just because a person never
-contributed before does not mean the person is not really bright and
-smart. Sometimes you get the best patches and help from people you never met
-before and who moves on the next day never to come back. The Open Source
-community can be a warm and fuzzy place!
-
 ## Only actual releases get widely used
 
 Only proper releases get tested for real. You can beg users to try pre

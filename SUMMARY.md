@@ -18,6 +18,7 @@
   * [Paid developers ask unpaid volunteers to do work](expect/ask-unpaid.md)
   * [Distributors absorb reports](expect/absorb.md)
   * [Contributors will not stick around](expect/contribs-leave.md)
+  * [Newcomers can be awesome](expect/good-newcomers.md)
   * [The know-it-best people](expect/questioned.md)
   * [People hide their origins](expect/hide-origins.md)
 * [Source code](code.md)
