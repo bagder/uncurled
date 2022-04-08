@@ -15,7 +15,7 @@ derived works, not discriminate against any person or field of endeavor etc.
 
 Proponents of Free Software often underscore that there is a difference
 between **Free Software** and **Open Source**, but in practice, looking at the
-requirements and the licenses involed, those differences are more distinct in
+requirements and the licenses involved, those differences are more distinct in
 the commmunities and how they operate rather in how they are defined in text.
 
 Open Source was an effort to create a term that emphasizes the open aspect, as
