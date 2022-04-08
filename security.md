@@ -26,17 +26,17 @@ things that can be done to make sure your project has no obvious flaws.
 
 ## Bug Bounty
 
-If possibly, consider offering a bug bounty for your project. They usually
+If possible, consider offering a bug bounty for your project. They usually
 work so that security researchers who find and report security vulnerabilities
 in your project are rewarded. Preferably with real money.
 
 By offering money to researchers, you will "buy their eyeball time" for a
-little while. Many of of those will otherwise simply move on and rather spend
+little while. Many of those will otherwise simply move on and rather spend
 their limited time and energy on other projects that *do* offer rewards.
 
 ## the Bug Bounty Paradox
 
-By offering monetary rewards for *finding* security problems, you migth find
+By offering monetary rewards for *finding* security problems, you might find
 yourself in a situation where you pay for the finding but all the developers
 who are left to fix the problems are unpaid volunteers. You must be aware of
 and acknowledge this imbalance, as it may alienate contributors. Maybe you can
