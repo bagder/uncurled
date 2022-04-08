@@ -28,7 +28,7 @@ Be aware that adding money and compensations to such a project is complicated.
 If suddenly someone gets paid for doing things others are doing out of the
 goodness of their hearts, people may think of it as an injustice.
 
-- "Why should I do this for free when NN gets paid to do it?"
+ "Why should I do this for free when NN gets paid to do it?"
 
 ## Companies pay for features
 
