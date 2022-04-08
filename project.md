@@ -72,21 +72,6 @@ Often, very slow-moving (or stuck) Linux distributions are blamed for
 this. "I am forced to use Linux Y with version Z so I have to use your software
 version X".
 
-## Doing a solid and good API is hard
-
-API lessons:
-
-Do not do open ended things like "non-zero to enable", use explicit numbers
-instead: "1 to enable, 0 to disable" to leave room for future extensions and
-additions.
-
-Using vararg style setopt() functions in C is not the optimal way to receive
-values if you use non-ints and want to work nicely on >32bit platforms.
-
-Do not ever return data that needs free(). You must provide a free function to
-use since various systems may use different memory models between the app and
-the library.
-
 ## Keep. On. Improving.
 
 Q: "How does one stay consistent for so long? I bet you had a lot of great
