@@ -50,7 +50,7 @@ will find the project completely deserted and that you are the only one to
 have done any changes to it for an extended period of time.
 
 The contributors who flocked to the project just a while ago and who helped
-with so much stuff, added good code and helped answering questions from new
+with so much stuff, added good code and helped answer questions from new
 users just suddenly vanish.
 
 The low barrier to entry is also a low barrier to exit. People get bored, they
