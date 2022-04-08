@@ -13,7 +13,7 @@ An projects needs so much more than just code to strive and succeed.
 
 ## BDFL
 
-The **Benevolent Dictator For Life** is a term for Open Source project
+The **Benevolent Dictator For Life** is a term for an Open Source project
 leadership model that is commonly used, where the invididual who created the
 project remains the leader and ultimately has the final say and veto on
 decisions. Oftentimes this power is only implied and silent, not actually
