@@ -9,6 +9,8 @@ of people that do everything that needs to be done in an Open Source project.
 
 An projects needs so much more than just code to strive and succeed.
 
+## BDFL
+
 ## Security issues
 
 ## Release management
