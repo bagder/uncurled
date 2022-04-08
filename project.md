@@ -6,7 +6,7 @@ to achieve a particular aim."*
 ## "Just a bunch of people"
 
 An Open Source project is people cooperatively improving a product. People
-from somewhere you never met or spoken to before, who wants to help improve or
+from somewhere you never met or spoken to before, who want to help improve or
 change the project.
 
 Contributors show up and they might have a different idea of what the project
@@ -19,9 +19,9 @@ name is not always unique, it is not always good and it is not always
 describing what the project actually does.
 
 The project is rarely a formal or legal entity anywhere, at least as a start.
-Many projects that succeeds, later grow up and turn into more formal
-organizations, or join other unmbrella organizations to become part of them -
-and some are even run and own by companies in the first place that then own
+Many projects that succeed, later grow up and turn into more formal
+organizations, or join other umbrella organizations to become part of them -
+and some are even run and owned by companies in the first place that then own
 the name and maybe even associated resources. But some projects remain
 collected solely under that name.
 
@@ -32,7 +32,7 @@ nobody has seen your name or contributions done by you before, you might meet
 a level of healthy skepticism and questions, but if you are well-meaning and
 do good, you will find friends and get accepted quickly in most communities.
 There are virtually no existing Open Source project that will not welcome and
-celebrate new and fresh blood cortibuting in the project.
+celebrate new and fresh blood contributing to the project.
 
 Usually you get roles and responsibility over time by showing will and skill.
 Once you have proven yourself and the face that you stick around, you can
@@ -55,7 +55,7 @@ users just suddenly vanish.
 
 The low barrier to entry is also a low barrier to exit. People get bored, they
 change jobs, they find spouses, they get kids, they switch to a competing
-project - in a sense, every other Open Source project in existance is a
+project - in a sense, every other Open Source project in existence is a
 competitor as in they also want the time and energy from contributors and
 every contributor only have their limit amount of time and energy to spend on
 Open Source.
