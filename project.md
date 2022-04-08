@@ -3,6 +3,12 @@
 (noun) *"An individual or collaborative enterprise that is carefully planned
 to achieve a particular aim."*
 
+## "Just a bunch of people"
+
+- usually not formal nor any legal entity
+- usually nothing to "join"
+- usually you get roles and responsibility by showing will and skill 
+
 ## It is never finished
 
 This is hardly any surprise to anyone, but projects in general tend to never
@@ -68,9 +74,9 @@ then obviously never again upgrade. But surely, if it works why fix it?
 The downside for these users is of course that they then have not gotten any
 of the security upgrades you have been shipping the last decade.
 
-Often, very slow-moving (or stuck) Linux distributions are blamed for
-this. "I am forced to use Linux Y with version Z so I have to use your software
-version X".
+Often, slow-moving (or stuck) Linux distributions are blamed for this. "I am
+forced to use Linux Y with version Z so I have to use your software version
+X".
 
 ## Keep. On. Improving.
 
