@@ -22,3 +22,4 @@ isn't:is not
 internet=Internet
 isation:ization
 open source=Open Source
+there's:there is
