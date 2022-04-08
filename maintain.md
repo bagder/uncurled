@@ -9,12 +9,12 @@ assigned to them. In smaller projects, there are often just a small set of
 people that do everything that needs to be done in an Open Source project. In
 many projects there is only one maintainer.
 
-An projects needs so much more than just code to strive and succeed.
+And projects need so much more than just code to strive and succeed.
 
 ## BDFL
 
 The **Benevolent Dictator For Life** is a term for an Open Source project
-leadership model that is commonly used, where the invididual who created the
+leadership model that is commonly used, where the individual who created the
 project remains the leader and ultimately has the final say and veto on
 decisions. Oftentimes this power is only implied and silent, not actually
 written down or pronounced anywhere.
