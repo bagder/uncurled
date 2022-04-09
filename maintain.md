@@ -52,6 +52,10 @@ process documented, I can not only make sure that I can follow it and do an
 identical release the next time, I can also at some point in a much easier way
 hand over that duty to someone else, with great confidence that it will work.
 
+I am a firm believer in release early, release often and I think it has paid
+off many times over the years. More releases is better than less. Remember:
+[Only releases get tested](code/releases.md).
+
 ## Website admin
 
 In a small project, and most Open Source projects are small, you will end up
