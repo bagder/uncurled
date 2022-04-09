@@ -45,23 +45,24 @@ verify in CI jobs etc that the scripts work.
 
 I have personally done several hundred releases of my Open Source projects
 over the years and single my best advice is: use a check list. It took me a
-while to learn this hard lesson myself and darnit how many releases I have
-screwed up in my life simply because I forgot some little detail. I have
-learned that if I have every tiny little detail in the release process
-documented, I can not only make sure that I can follow it and do an identical
-release the next time, I can also at some point in a much easier way hand over
-that duty to someone else, with great confidence that it will work.
+while to learn this hard lesson myself and I do not how many releases I have
+screwed up in my life simply because I forgot some little detail along the
+way. I have learned that if I have every tiny little detail in the release
+process documented, I can not only make sure that I can follow it and do an
+identical release the next time, I can also at some point in a much easier way
+hand over that duty to someone else, with great confidence that it will work.
 
 ## Website admin
 
 In a small project, and most Open Source projects are small, you will end up
-having to maintain the website as well. I have wrestled with web server config
-files, hosting providers, HTML tags, understanding CSS classes and learned
-more details about HTTP security response headers than I ever wanted and of
-course none of that was actually related to the projects I worked in.
+having to maintain the website as well. I have wrestled with web server
+configuration files, hosting providers, HTML tags, understanding CSS classes
+and learned more details about HTTP security response headers than I ever
+wanted and of course none of that was actually related to the projects I
+worked in.
 
 An Open Source project needs a dedicated website. It is not enough to exist on
-Gitlab, GitHub or the likes. Those are excellent source hostint and management
+Gitlab, GitHub or the likes. Those are excellent source hosting and management
 services, but they do not replace the need for a proper website. A website
 that explains what the projects is, what it does, where the documentation is
 and how to get started using etc.
