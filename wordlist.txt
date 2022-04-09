@@ -54,3 +54,4 @@ upsell
 CLA
 CLAs
 else's
+Gitlab
