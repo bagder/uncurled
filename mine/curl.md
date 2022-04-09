@@ -29,7 +29,7 @@ version number. On Friday March 20, 1998 I shipped curl 4.0.
 In November 1998, I posted an update on the website celebrating "over 300
 downloads" of the latest release.
 
-The project remained a command line tool for a while, and after the summar of
+The project remained a command line tool for a while, and after the summer of
 2000 we introduced **libcurl** to the world. A library that would bring "curl
 powers" to applications that wanted it.
 
