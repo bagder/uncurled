@@ -17,7 +17,7 @@ emphasize and underscore that engineering time is not free - not even for
 them. Their engineers only have a certain amount of time in their work days
 and if the company would pay me to handle my Open Source relater matters, I
 would do it (probably) much more effectively and spend less time on it and it
-would free up time from their enginereers. Time they could spend on things
+would free up time from their engineers. Time they could spend on things
 that are *their* expertise.
 
 ## Dual license
@@ -37,12 +37,12 @@ every project:
 3. The project needs to be good and unique enough so that companies do not
    just instead switch to a competing Open Source project instead.
 
-## Non-open add-ons
+## Non-open additions
 
 Because of the shocking problems with selling stuff that we give away for
 free, it is popular to spice up Open Source offerings with services and
 software around that are not open. Like plugins, add-ons, subscriptions, more
 sophisticated versions etc. Open core is a popular name for this concept.
 
-That does not actually make anyone pay for the open project, it is a way for
-upselling customers with related and associated non-open things.
+That does not actually make anyone pay for the open project, it is a way to
+upsell customers with related and associated non-open things.
