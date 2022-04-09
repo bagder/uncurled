@@ -51,3 +51,5 @@ GPL
 add-ons
 ons
 upsell
+CLA
+CLAs
