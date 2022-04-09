@@ -20,8 +20,8 @@ were overwhelming.
 
 Doing Open Source all day, every day, is awesome. Everything is open and you
 can share, show and discuss your work with everyone. I could combine
-experiences and knowledge beween curl, Firefox and HTTP specification work and
-all the work could be easily shared and openly discussed. And everyone
+experiences and knowledge between curl, Firefox and HTTP specification work
+and all the work could be easily shared and openly discussed. And everyone
 involved reaped the benefits.
 
 I worked in the networking team ("Necko") so I got to fiddle with HTTP, DNS,
