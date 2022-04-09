@@ -41,6 +41,7 @@
   * [Getting donations is hard](money/donations.md)
   * [You do not get what you pay for](money/what-you-pay-for.md)
   * [Starting to charge is difficult](money/start-charge.md)
+  * [Should companies pay?](money/should-pay.md)
 * [Project](project.md)
 * [Security](security.md)
 * [Maintain](maintain.md)
