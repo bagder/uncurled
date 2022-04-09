@@ -34,7 +34,11 @@ suitable place for the project to set its next tent pole.
 
 ## Security issues
 
+See [security](security.md)
+
 ## Release management
+
+
 
 ## Web site admin
 
