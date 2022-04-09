@@ -5,7 +5,7 @@ I will use some of these terms in this book.
 ## Open Source
 
 The "Open Source" label was created in February 1998 by a team of individuals
-who would subsequently create the organization **Open Source Inititive** that
+who would subsequently create the organization **Open Source Initiative** that
 same month.
 
 "Open Source" is a [ten-point definition](https://opensource.org/osd)
@@ -16,7 +16,7 @@ derived works, not discriminate against any person or field of endeavor etc.
 Proponents of Free Software often underscore that there is a difference
 between **Free Software** and **Open Source**, but in practice, looking at the
 requirements and the licenses involved, those differences are more distinct in
-the commmunities and how they operate rather in how they are defined in text.
+the communities and how they operate rather in how they are defined in text.
 
 Open Source was an effort to create a term that emphasizes the open aspect, as
 a more commercially friendly phrase and concept than how many people perceived
