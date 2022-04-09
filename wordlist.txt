@@ -47,3 +47,6 @@ wolfSSL
 Spotify
 Corola
 gamepad
+GPL
+add-ons
+upsell
