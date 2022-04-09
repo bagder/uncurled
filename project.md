@@ -3,7 +3,7 @@
 (noun) *"An individual or collaborative enterprise that is carefully planned
 to achieve a particular aim."*
 
- * ["Just a bunch of people"](project/bunch.md)
+ * [Just a bunch of people](project/bunch.md)
  * [People come and go](project/come-and-go.md)
  * [It is never finished](project/never-finished.md)
  * [Over time, maintenance grows](project/maintenance.md)

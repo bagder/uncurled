@@ -43,7 +43,7 @@
   * [Starting to charge is difficult](money/start-charge.md)
   * [Should companies pay?](money/should-pay.md)
 * [Project](project.md)
-  * ["Just a bunch of people"](project/bunch.md)
+  * [Just a bunch of people](project/bunch.md)
   * [People come and go](project/come-and-go.md)
   * [It is never finished](project/never-finished.md)
   * [Over time, maintenance grows](project/maintenance.md)

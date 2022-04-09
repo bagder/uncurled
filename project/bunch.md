@@ -1,4 +1,4 @@
-# "Just a bunch of people"
+# Just a bunch of people
 
 An Open Source project is people cooperatively improving a product. People
 from somewhere you never met or spoken to before, who want to help improve or
