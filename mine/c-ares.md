@@ -1,6 +1,6 @@
 # c-ares
 
-At some point during 2003, my friend Bjorn (from Dancer) and I were discussing
+At some point during 2003, my friend Bjørn (from Dancer) and I were discussing
 back and forth and planning to maybe create our own asynchronous DNS/name
 resolver library. We felt that the synchronous APIs provided by
 `gethostname()` and `getaddrinfo()` were too limiting in for example curl. We
