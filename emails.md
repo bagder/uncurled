@@ -38,7 +38,7 @@ TBD
 
 TBD
 
-## I will slaugter you
+## I will slaughter you
 
 TBD
 
