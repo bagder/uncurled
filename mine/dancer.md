@@ -8,7 +8,7 @@ online with people from around the world.
 On IRC, I soon discovered that not all clients were actual users. Some of them
 were automated programmed robot clients, called bots. All channels I
 frequented had at least one. One day an IRC friend of mine from Denmark,
-Bjorn, showed me his embryo of what would become his own Open Source bot. I
+Bjørn, showed me his embryo of what would become his own Open Source bot. I
 immediately joined the mission of writing a bot. For the fun, for the
 education and to be able to make our bot do everything we would like a bot do
 in the channels we frequented. We called it Dancer from the fact that it
