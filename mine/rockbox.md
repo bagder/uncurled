@@ -27,7 +27,7 @@ We had physical annual developer meetups during several years where Rockbox
 contributors from all over the world would unite to hack on code and have a
 good time over a weekend.
 
-When the smart phones eventually entered and switfly conquered the portable
+When the smart phones eventually entered and swiftly conquered the portable
 music world, the concept and use of mp3 players faded away and so did my
 personal interest in the Rockbox project. I officially stopped participating
 in 2014, but by then I was not doing much. I continued to host and run servers

@@ -16,7 +16,7 @@ It was soon made clear to me that the original author of this library did not
 want the patches I deemed were necessary, including changes to make it more
 portable to Windows and more. I felt I had no choice but to fork the project
 and instead I created **c-ares**. It would show its heritance but not be the
-same. The `c` could be for curl, but it also also made it into an English word
+same. The `c` could be for curl, but it also made it into an English word
 like "cares" which was enough for me.
 
 With c-ares, we could soon offer asynchronous name resolving for curl on a

@@ -14,7 +14,7 @@ education and to be able to make our bot do everything we would like a bot do
 in the channels we frequented. We called it Dancer from the fact that it
 served in a Danish channel at first. Dane Serv become Dancer.
 
-This was the first real Open Source project I conntributed code to regularly.
+This was the first real Open Source project I contributed code to regularly.
 It was also my first real TCP/IP client adventure and I learned to read RFCs
 to figure out protocol details.
 

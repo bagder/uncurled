@@ -7,7 +7,7 @@ A project should be judged based on how it acts on security problem much more
 than the mere fact that the problems appeared the first place. Even the best
 run projects will have occasional hiccups, but projects that do not take care
 of and handle their security vulnerabilities in a proper and responsible way
-will loose users' trust. And without trust, what is your project?
+will lose users' trust. And without trust, what is your project?
 
 ## Security problems will appear
 
@@ -34,7 +34,7 @@ By offering money to researchers, you will "buy their eyeball time" for a
 little while. Many of those will otherwise simply move on and rather spend
 their limited time and energy on other projects that *do* offer rewards.
 
-## the Bug Bounty Paradox
+## The Bug Bounty Paradox
 
 By offering monetary rewards for *finding* security problems, you might find
 yourself in a situation where you pay for the finding but all the developers
