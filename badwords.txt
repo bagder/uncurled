@@ -24,3 +24,4 @@ isation:ization
 open source=Open Source
 there's:there is
 that's:that is
+it's:it is

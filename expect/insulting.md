@@ -12,7 +12,7 @@ points nor any new friends by lowering yourself to the attacker's level and
 (try to) deliver insults back.
 
 You will learn that you have chosen the wrong language (no matter which
-language you use), the wrong technology (either it's too old, too stupid, too
+language you use), the wrong technology (either it is too old, too stupid, too
 clever or whatever that can be wrong), that your software does not solve the
 problem the user has (even if it never was meant to do what the user wants it
 to do or if the person simply has not understood how to make it do it). And
