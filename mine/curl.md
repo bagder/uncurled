@@ -1,11 +1,11 @@
 # curl
 
 I needed a simple tool to download currency rates from an HTTP server (See
-[Dancer](#dancer) above), and I found **httpget**. On November 11, 1996 Rafael
-Sagula had released the first version of that tool named httpget 0.1 and I
-found it just days after his release. This was a rudimentary tool that almost
-did what I wanted. I fixed a bug or two in it and sent my improvements back to
-Rafael over email.
+[Dancer](dancer.md) above), and I found **httpget**. On November 11, 1996
+Rafael Sagula had released the first version of that tool named httpget 0.1
+and I found it just days after his release. This was a rudimentary tool that
+almost did what I wanted. I fixed a bug or two in it and sent my improvements
+back to Rafael over email.
 
 Rafael made a few follow-up releases of the tool before he asked if I wanted
 to "take over" maintenance since I had kept on sending improvements his way -
@@ -25,6 +25,12 @@ wrong and unsuitable. It really did not just "get" URLs anymore. I released
 the final urlget version (3.12) on March 14 1998, then renamed the tool to
 **curl** and did the first curl release almost a week later with a bumped
 version number. On Friday March 20, 1998 I shipped curl 4.0.
+
+It was only a toy project so of course it was still Open Source. I admired and
+thought Open Source authors were cool and I wanted to be part of that group as
+well. I wanted curl to run everywhere and I knew that I would not be able to
+make it a universal tool on my own, nor would I alone be able to fix all bugs
+and add all potential new features. It had to be Open Source to go places.
 
 In November 1998, I posted an update on the website celebrating "over 300
 downloads" of the latest release.
