@@ -1,19 +1,14 @@
-name: wordcheck
-
+name: spell
 on:
-  # Trigger the workflow on push or pull requests, but only for the
-  # main branch
   push:
     branches:
     - main
-    - '*/ci'
     paths:
     - '**.md'
   pull_request:
     branches:
     - main
-    paths:
-    - '**.md'
+
 jobs:
   check:
 
@@ -22,5 +17,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: check 
-      run: make wordcheck
+    - name: Check Spelling
+      uses: UnicornGlobal/spellcheck-github-actions@master
