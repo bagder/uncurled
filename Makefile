@@ -7,3 +7,6 @@ proselint:
 
 wordcheck: 
 	@./mgrep $(MDS)
+
+wc:
+	@wc $(MDS)
