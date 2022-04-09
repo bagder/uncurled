@@ -26,7 +26,7 @@ submit bug reports or send in your proposed changes and improvements. When
 nobody has seen your name or contributions done by you before, you might meet
 a level of healthy skepticism and questions, but if you are well-meaning and
 do good, you will find friends and get accepted quickly in most communities.
-There are virtually no existing Open Source project that will not welcome and
+There is virtually no existing Open Source project that will not welcome and
 celebrate new and fresh blood contributing to the project.
 
 Usually you get roles and responsibility over time by showing will and skill.
