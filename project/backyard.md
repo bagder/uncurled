@@ -12,8 +12,8 @@ exactly whose responsibility it is to fix that fence between your backyards,
 as it might not be totally obvious who owns the problem, and maybe you even
 disagree or in some cases both blame the other party.
 
-You get that and keep backyard in a shape that you want to show off when you
-have friends over, you cannot accept having a broken or dirty fence just
+To get that backyard in such a great shape that you want to show it off when
+you have friends over, you cannot accept having a broken or dirty fence just
 because you cannot agree with your neighbor. You roll up your sleeves and you
 fix it. No matter whose fault it is.
 
