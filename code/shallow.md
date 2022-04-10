@@ -1,4 +1,4 @@
-# Given enouh eyeballs, all bugs are shallow
+# Given enough eyeballs, all bugs are shallow
 
 This is said to be [Linus' Law](https://en.wikipedia.org/wiki/Linus%27s_law).
 Meaning that with enough testers and people looking at the code, all bugs and
@@ -12,9 +12,9 @@ ones.
 
 People rather follow each other, meaning the network effect of "they use that
 product so then I shall as well" is explaining usage much more than the
-absense of bugs.
+absence of bugs.
 
-This said, rearely used and impopular projects probably are reviewed and
+This said, rarely used and unpopular projects probably are reviewed and
 scrutinized *even less*. If 0.2% of users read a piece of the code, at least
 more users make a few more readers.
 
