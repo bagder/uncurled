@@ -20,7 +20,7 @@ three decades.
 You no longer have to run a physical machine and configure your own configs to
 make a web server function. You still can if you want, but these days there
 are countless of ways to use others' machines and others' services with
-virtual machines and co-hosting what not. At very low costs.
+virtual machines and co-hosting what not. At low cost.
 
 It is even usually easy and cheap to register a domain for this to get your
 personal name on the site.
