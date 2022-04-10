@@ -29,7 +29,7 @@ personal name on the site.
 
 These days many (most?) projects go with a service provider that hosts and
 offers whole selection of project management services in the same place in an
-integrated fasion. GitHub and Gitlab being two popular and known providers.
+integrated fashion. GitHub and Gitlab being two popular and known providers.
 
 Getting a good and productive issue tracker up for your project used to be
 complicated. It is not anymore.
