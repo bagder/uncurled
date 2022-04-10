@@ -5,8 +5,8 @@ Meaning that with enough testers and people looking at the code, all bugs and
 quirks will be found and erased.
 
 Of course, more eyes on the code will help you find and fix more bugs, but you
-must not fool yourself into believing that just because you have a very large
-user base that automatically means that a lot of people have actually read the
+must not fool yourself into believing that just because you have a huge user
+base this automatically means that a lot of people have actually read the
 code. Very few users ever read the code of any project. Including popular
 ones.
 
