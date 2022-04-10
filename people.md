@@ -11,4 +11,4 @@ are social and complicated creatures.
  * [Contributors are mostly male white westerners](people/male-white.md)
  * [Lower the bar to attract more contributions](people/lower-bar.md)
  * [Code of Conduct](people/code-of-conduct.md)
- * [No signed agreements](people/no-signing.md)
+

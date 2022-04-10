@@ -1,3 +1,0 @@
-# No signed agreements
-
-TBD
