@@ -19,4 +19,5 @@ scrutinized *even less*. If 0.2% of users read a piece of the code, at least
 more users make a few more readers.
 
 All bugs could in theory eventually be found. But only if you stop adding new
-features and you have a large amount of users *for a very long time*.
+features and you have a large amount of users *for an extended period of
+time*.
