@@ -26,6 +26,7 @@
   * [Many bug-fixes address symptoms](code/symptoms.md)
   * [Only releases get tested](code/releases.md)
   * [Once merged, you own it](code/youownit.md)
+  * [Given enough eyeballs, all bugs are shallow](code/shallow.md)
 * [People](people.md)
   * [People assume everything is well motivated](people/motivated.md)
   * [People will contact you privately about the project](people/privately.md)
