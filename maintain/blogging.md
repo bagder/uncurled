@@ -1,3 +1,3 @@
-# Bloging about it
+# Blogging about it
 
 TBD
