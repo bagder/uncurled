@@ -7,8 +7,7 @@ quirks will be found and erased.
 Of course, more eyes on the code will help you find and fix more bugs, but you
 must not fool yourself into believing that just because you have a huge user
 base this automatically means that a lot of people have actually read the
-code. Very few users ever read the code of any project. Including popular
-ones.
+code. Few users ever read the code of any project. Including popular ones.
 
 People rather follow each other, meaning the network effect of "they use that
 product so then I shall as well" is explaining usage much more than the
