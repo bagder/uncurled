@@ -1,4 +1,4 @@
-# Getting started
+# Start
 
 There has never been a better time to get started with Open Source or to
 release your project as Open Source than right now. There are better and more
