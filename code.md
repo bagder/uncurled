@@ -1,4 +1,4 @@
-# Source code
+# Source
 
  * [Do not accept undocumented code](code/undocumented.md)
  * [Many bug-fixes address symptoms](code/symptoms.md)
