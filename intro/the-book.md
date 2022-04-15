@@ -1,8 +1,7 @@
 # The book
 
-I decided to split the book into a number of separate sections based on topic,
-and then talk about a set of specific items, questions or concerns maybe in
-each such topic.
+This book is divided into eleven separate sections based on topic, in which I
+talk about a set of specific Open Source items, questions or concerns.
 
 1. [Experience](../experience.md). Stories from half a dozen Open Source
    projects I have created or joined and spent a significant time and energy
