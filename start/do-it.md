@@ -15,3 +15,7 @@ could expect from the project as of right now.
 
 Encourage users to try it out. Ask them for feedback early on. Feedback is the
 fertilization you need to learn to appreciate and act on.
+
+## How
+
+TBD
