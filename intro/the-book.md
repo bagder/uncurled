@@ -3,7 +3,7 @@
 This book is divided into eleven separate sections based on topic, in which I
 talk about a set of specific Open Source items, questions or concerns.
 
-1. [Experience](../experience.md). Stories from half a dozen Open Source
+1. [Experience](../mine.md). Stories from half a dozen Open Source
    projects I have created or joined and spent a significant time and energy
    in.
 2. [Start](../start.md). Some words and advice about getting started with Open Source.
