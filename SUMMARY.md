@@ -1,5 +1,6 @@
 * [Introduction](intro.md)
   * [Terms](intro/terms.md)
+  * [The book](intro/the-book.md)
 * [My experience](mine.md)
   * [Dancer](mine/dancer.md)
   * [curl](mine/curl.md)
