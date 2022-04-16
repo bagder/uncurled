@@ -22,3 +22,19 @@ individuals when not having a legal entity can be tricky.
 Fortunately, there are several collectives and foundations you can join these
 days that will help your project receive and hold on to money for the sake of
 your project. Usually, at the price of a percentage of the revenue.
+
+## Sponsor an individual
+
+Many projects are run by a single person and many such invidual persons accept
+donations.
+
+As a donor or sponsor, thinking about the difference between sponsoring a
+person and a project can be worthwhile exercise. In many cases there might not
+be a distinct difference, but in others there might.
+
+Donating to a single person will probably help further that person's efforts
+into their projects, which might push the project further that you think they
+should work on. But donating to a single person will also help that human to
+easier buy food or raise their family with that funding, while donating to a
+project often makes that a slightly trickier endeavor due to reasons explained
+above.
