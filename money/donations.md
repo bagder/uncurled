@@ -25,7 +25,7 @@ your project. Usually, at the price of a percentage of the revenue.
 
 ## Sponsor an individual
 
-Many projects are run by a single person and many such invidual persons accept
+Many projects are run by a single person and many such individual persons accept
 donations.
 
 As a donor or sponsor, thinking about the difference between sponsoring a
