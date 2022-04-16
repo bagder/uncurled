@@ -26,22 +26,8 @@ To me, they often just end up confusing and sometimes downright funny. Without
 revealing who sent them, let me show you some real world examples of email I
 have received.
 
-## The Instagram and Spotify hacking ring
-
-TBD
-
-## I have Toyota Corola
-
-TBD
-
-## Drift gamepad on PS5
-
-TBD
-
-## I will slaughter you
-
-TBD
-
-## How I respond
-
-TBD
+ * [The Instagram and Spotify hacking ring](emails/hacking-ring.md)
+ * [I have Toyota Corola](emails/toyota-corola.md)
+ * [Drift gamepad on PS5](emails/ps5.md)
+ * [I will slaughter you](emails/slaughter.md)
+ * [How I respond](emails/respond.md)
