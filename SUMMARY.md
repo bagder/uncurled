@@ -1,4 +1,5 @@
 * [Introduction](intro.md)
+  * [Resources](intro/resources.md)
   * [Terms](intro/terms.md)
   * [Uncurled](intro/the-book.md)
 * [Experience](mine.md)
