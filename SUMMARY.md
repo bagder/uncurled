@@ -93,3 +93,8 @@
   * [How to stay sane](life/stay-sane.md)
   * [How to maintain motivation](life/motivation.md)
 * [Emails](emails.md)
+  * [The Instagram and Spotify hacking ring](emails/hacking-ring.md)
+  * [I have Toyota Corola](emails/toyota-corola.md)
+  * [Drift gamepad on PS5](emails/ps5.md)
+  * [I will slaughter you](emails/slaughter.md)
+  * [How I respond](emails/respond.md)
