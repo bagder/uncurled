@@ -40,3 +40,7 @@ printf() implementation, create an IRC bot and author a book about Open
 Source.
 
 / Daniel Stenberg, April 2022
+
+ * [Resources](intro/resources.md)
+ * [Terms](intro/terms.md)
+ * [Uncurled](intro/the-book.md)
