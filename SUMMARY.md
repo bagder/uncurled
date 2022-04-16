@@ -50,6 +50,7 @@
   * [You get what you pay for](money/what-you-pay-for.md)
   * [Starting to charge is difficult](money/start-charge.md)
   * [Should companies pay?](money/should-pay.md)
+  * [Rights to the money](money/rights.md)
 * [Source](code.md)
   * [Distributors absorb reports](code/absorb.md)
   * [Do not accept undocumented code](code/undocumented.md)
