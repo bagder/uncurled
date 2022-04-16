@@ -11,8 +11,8 @@ Communication, consistency, transparency and fairness could be guiding
 principles and of course money that a project has received should be spent on
 activities that benefit the project in one way or another.
 
-In many projects, there will be an implied and assumed right given to the the
-most active and maybe foundational members to have more to say about these
+In many projects, there will be an implied and assumed right given to the most
+active and maybe founding members to have more to say about these
 matters. Also, like in any group with humans, some will speak louder and make
 their opinions made clear in a stronger way.
 
