@@ -20,7 +20,7 @@ fertilization you need to learn to appreciate and act on.
 
 Start with the small and easy things, then add and build on those over time.
 
-1. Create a repo and presence on a source hosting site
+1. Create a repository and presence on a source hosting site
 2. Add a description that explains what it is and what problems it solves
 3. Land or import your first code attempt
 4. Tell your closest friends about your new project
