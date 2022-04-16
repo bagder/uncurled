@@ -6,7 +6,8 @@ site](https://daniel.haxx.se).
 The contents of this book is maintained and updated in [its git
 repository](https://github.com/bagder/uncurled) hosted on GitHub.
 
-The canonical URL for this book is `https://un.curl.dev`.
+The canonical URL for this book is `https://un.curl.dev`. The book is rendered
+to web format by `gitbook.com`.
 
 If you find a problem or error in this book, or only want to request
 additional details or a clarification, [submit an
