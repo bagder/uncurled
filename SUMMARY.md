@@ -1,6 +1,6 @@
 * [Introduction](intro.md)
   * [Terms](intro/terms.md)
-  * [The book](intro/the-book.md)
+  * [Uncurled](intro/the-book.md)
 * [Experience](mine.md)
   * [Dancer](mine/dancer.md)
   * [curl](mine/curl.md)
