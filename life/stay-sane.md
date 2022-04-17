@@ -18,7 +18,7 @@ test cases. By adding new test cases for new features and new bug-fixes, over
 time there are many tests and the acts of doing another release or changing
 internals become less dangerous. The test cases combined with many releases
 over a longer time, can slowly build up a trust-level that the basics
-work. Doing subsequent releases is then less of a nerv-wracking thing. Adding
+work. Doing subsequent releases is then less of a nerve-wracking thing. Adding
 another billion users should be fine. No need to worry.
 
 ## Bugs are not that scary

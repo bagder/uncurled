@@ -23,7 +23,7 @@ in a forgotten corner of the project that might not actually be the most
 important thing to work on, but that is fun and feels meaningful right now.
 
 I have learned that my enthusiasm for the project is not evenly distributed
-over all the different tasks and areas and this un-even distribution changes
+over all the different tasks and areas and this uneven distribution changes
 over time. I can adjust where I focus my efforts depending on what I think
 feels fun and interesting for the moment and do less of what I am tired of or
 bored by.
