@@ -43,6 +43,7 @@
   * [Open standards are your friends](project/standards.md)
   * [The project is we, not "I" nor "you"](project/we.md)
   * [Contributor License Agreement](project/cla.md)
+  * [What is success?](project/success.md)
 * [Money](money.md)
   * [Volunteers make things different](money/volunteer.md)
   * [Companies pay for features](money/companies.md)

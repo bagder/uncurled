@@ -17,3 +17,4 @@ to achieve a particular aim."*
  * [Open standards are your friends](project/standards.md)
  * [The project is we, not "I" nor "you"](project/we.md)
  * [Contributor License Agreement](project/cla.md)
+ * [What is success?](project/success.md)
