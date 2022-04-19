@@ -16,7 +16,7 @@ Source projects, my own and others'. I have worked exclusively with Open
 Source professionally since 2014 for Mozilla and since 2019 for wolfSSL.
 
 Because of my background and life with Open Source and probably a lot because
-of the relative successes some of my projects have had, I frequently get
+of the relative success some of my projects have had, I frequently get
 questions about subjects related to maintaining Open Source. How to run a
 project and what makes them succeed? For a long time I have been collecting
 lessons from my life with Open Source into a list of advice for fellow open
