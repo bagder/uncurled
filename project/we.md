@@ -1,7 +1,7 @@
 # The project is we, not "I" nor "you"
 
 **How** you communicate in and about Open Source projects is important and
-well greatly affect how you and your work is perceived. Clear communicattion
+well greatly affect how you and your work is perceived. Clear communication
 is important because you are working with humans, and in many cases people who
 do not have English as their primary language.
 
