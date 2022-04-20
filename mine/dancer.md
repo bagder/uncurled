@@ -29,4 +29,4 @@ currency rates for us on command. How much is 100 SEK (Swedish crowns) in USD
 today? That was easy, but in order for the currency rates to be exact, I
 needed to download fresh rates from somewhere daily. I found an HTTP server
 that hosted rates, so I just needed a tool that could run on a schedule and
-download those updated numbers...
+download those updated numbers.

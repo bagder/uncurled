@@ -13,5 +13,5 @@ there.
 Heck, even if the documentation is perfect (in your mind), lots of people will
 just mail and ask anyway since they believe that is a faster way to get the
 accurate answer. Or they do not believe the documentation. Or they for some
-reason decide that the perfect online documentation must be out-of-date...
+reason decide that the perfect online documentation must be out-of-date.
 
