@@ -30,4 +30,4 @@ was a perfect job for me. Maybe the biggest downside was C++.
 
 I quit Mozilla in December 2018 without knowing what to do next, but with a
 keen interest in trying to see if I could maybe make working on curl full-time
-a thing...
+a thing.

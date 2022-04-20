@@ -7,5 +7,4 @@ from those users.
 
 Heck, even other application authors or product manufacturers will just get
 your stuff and use it and not tell you (and neither are they obliged to of
-course). Until things do not work as they thought...
-
+course). Until things do not work as they thought.
