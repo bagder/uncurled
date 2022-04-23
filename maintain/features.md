@@ -1,9 +1,9 @@
 # Feature development
 
 Doing feature development is usually what triggered and started the Open
-Source project. In is only natural that the share of your time that is spent
+Source project. It is only natural that the share of your time that is spent
 on feature development decreases over time in software projects as other
-activities grow and grow.
+activities grow and become dominant.
 
 In many ways, success and user growth work as a brake for feature development.
 
