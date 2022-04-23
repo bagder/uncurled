@@ -17,8 +17,8 @@ up on your plate more often than on the less experienced ones.
 If you learn to enjoy the challenge of debugging, you set yourself up to
 appreciate Open Source maintaining more.
 
-The older a project gets. The less time to spend on developing new stuff and
-the more time you spend debugging existing code. Maybe older projects also get
-more complicated problems that take even more effort and time to debug. Due to
-legacy and things that were established years ago and maybe not so convenient
-and clever anymore.
+The older a project gets. The less time you get to spend on developing new
+stuff and the more time you spend debugging existing code. Maybe older
+projects also get more complicated problems that take even more effort and
+time to debug. Due to legacy and things that were established years ago and
+maybe not so convenient and clever anymore.
