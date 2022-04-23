@@ -1,4 +1,4 @@
-# We are all differently fortunate
+# We are all differently privileged
 
 Some of us have a job that takes a lot of time and energy that makes it hard
 to work on Open Source. Having many kids or family members that need help or
@@ -6,7 +6,7 @@ assistance can take up a lot of your days. Being a family provider, putting
 food on the table and doing the laundry can take a lot of time.
 
 Having been born in a rich and well functioning part of the world is a luxury
-and a factor that is hard to change yourself.
+and a factor that is hard to change yourself. A privilege no doubt.
 
 In some businesses it is common for employers to ban employees from doing Open
 Source in their spare time.
