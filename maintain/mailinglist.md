@@ -13,3 +13,15 @@ people signing up or leaving.
 
 I have had to learn a lot about mail servers and mailing list software.
 
+## Others
+
+These days, it is popular to rather use other communication means. Forums,
+chat software, video meetings in different combinations and setups. The point
+is still the same: someone in your project needs to make sure they are
+managed, configured, setup and working for the team.
+
+These days there are a lot of online services that provide these things so
+that you do not have to self-host or run them yourself on your own servers, but
+they still typically need some amount of hand-holding. As a project
+maintainer, you can bet that you will be one of the people expected to deal
+with it.
