@@ -2,12 +2,12 @@
 
 As a maintainer of a project, you are one of the people who knows a lot, maybe
 most, of the internals workings of the code. That helps when aswering
-questions and even more when... the documenting the project.
+questions and even more when documenting the project and its workings.
 
 Documention is of course there to describe how your product or service works,
 and to cover as many details as possible so that users and developers can find
-answers to their problems by reading there rather than asking questions that
-takes time for other humans to respond to.
+answers to their problems by reading rather than asking questions that take
+time for other humans to respond to.
 
 By extending and polishing the documention, you ideally set yourself up and
 offload work from your future self from questions.
