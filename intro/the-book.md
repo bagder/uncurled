@@ -12,7 +12,7 @@ talk about a set of specific Open Source items, questions or concerns.
 5. [Money](../money.md). Conclusions about the monetary side of Open Source.
 6. [Source](../code.md). The code is certainly key in a project and there are clues for us there.
 7. [Security](../security.md). A really important area that we must never ignore.
-8. [Maintain](../maintain.md). What is it and what does it take to "maintain" a project?
+8. [Maintainer](../maintain.md). What is it and what does it take to be a project *maintainer*?
 9. [Evolution](../evolution.md). Let me take you with you on a little journey and show how Open
    Source has developed.
 10. [Life](../life.md). Can you be a successful Open Source maintainer *and* have a life at

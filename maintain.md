@@ -1,4 +1,4 @@
-# Maintain
+# Maintainer
 
 A *maintainer* is someone who maintains, develops and looks after an Open
 Source project. Usually with enough rights to be allowed to push changes to
