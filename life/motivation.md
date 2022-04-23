@@ -35,3 +35,7 @@ on the bug or answer the questions immediately unless I want to. I can
 actually spend time implementing a silly new feature instead of doing user
 support over a weekend just because it is fun. It helps me keeping the joy of
 development alive.
+
+I also find that having a "real life", with a family, friends and other spare
+time activities help me take my mind off my Open Source work during periods
+and help me recharge and maintain motivation.
