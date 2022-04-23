@@ -52,13 +52,15 @@ and go back and edit it down to the bare minimum the day after.
 
 People ask me how I get time off from real life to spend on Open Source. While
 that is a challenge in itself, for me I think "real life" as in having a
-family with wife and kids and other spare time activities also has served as
+family with wife and kids and other spare time activities also has served as a
 healthy "opposite" to my Open Source activities.
 
-Spending all time all days on Open Source eventually make me lose interest and
-energy. I need the distraction and variation in my days so spending time away
+Spending all time, all days on Open Source eventually make me lose interest
+and energy. I need distraction and variation in my days so spending time away
 from the code with my family is not a waste of Open Source time, it is rather
 recharging time and a necessary break that allows me to come back with more
-energy and better ideas. And I do not think I need to tell you all that you
-can still come up with awesome ideas and solve the trickiest problems, even
-when you are away from your keyboard at a dinner with your parents in law.
+energy and better ideas.
+
+I do not think I need to tell you all that you can still come up with awesome
+ideas and solve the trickiest problems, even when you are away from your
+keyboard at a dinner with your parents in law.
