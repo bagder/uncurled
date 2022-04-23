@@ -1,8 +1,8 @@
 # Merging
 
-When someone has provided a patch or a pull-request with a proposed changed to
+When someone has provided a patch or a pull-request with a proposed change to
 your project and it has been reviewed, improved and polished according to all
-the comments and feedback it will ideally end up in a state where it can and
+the comments and feedback, it will ideally end up in a state where it can and
 should be merged into a code repository.
 
 Getting this done in a timely manner is an important task for a maintainer and
