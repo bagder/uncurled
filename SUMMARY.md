@@ -41,7 +41,7 @@
   * [Clean up your backyard](project/backyard.md)
   * [Help out your neighbors](project/neighbors.md)
   * [Open standards are your friends](project/standards.md)
-  * [The project is we, not "I" nor "you"](project/we.md)
+  * [The project is "we"](project/we.md)
   * [Contributor License Agreement](project/cla.md)
   * [What is success?](project/success.md)
 * [Money](money.md)

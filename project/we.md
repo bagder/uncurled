@@ -1,4 +1,6 @@
-# The project is we, not "I" nor "you"
+# The project is "we"
+
+not "I" nor "you".
 
 **How** you communicate in and about Open Source projects is important and
 well greatly affect how you and your work is perceived. Clear communication
