@@ -41,12 +41,13 @@ about game related problems or services.
 
     Subject: possible bug
 
-    Hi. I didn't find other way to contact with PoB developers, so writing here -
-    please redirect this letter to proper people.
+    Hi. I didn't find other way to contact with PoB developers, so writing
+    here - please redirect this letter to proper people.
     I think i found bug
-    when i'm using nightblade support (with dual strike for example) while having
-    varunastra equipped (2 obviously), it doesn't add any crit multi to my main skill
-    while under elusive effect. (elusive checked at Configuration)
-    Supported Skills can only be used with Claws or Daggers looks like nightblade
-    don't recognize that my varunastra counts as all weapon types
-    i swapped varunastras for Rive claw for test, and it's working flawlessly!
+    when i'm using nightblade support (with dual strike for example) while
+    having varunastra equipped (2 obviously), it doesn't add any crit multi
+    to my main skill while under elusive effect. (elusive checked at
+    Configuration) Supported Skills can only be used with Claws or
+    Daggers looks like nightblade don't recognize that my varunastra counts
+    as all weapon types i swapped varunastras for Rive claw for test, and
+    it's working flawlessly!
