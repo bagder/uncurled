@@ -29,7 +29,7 @@ accomplish this are:
 4. CI system that run all tests before merge
 5. fuzzing and continuous tests of merged code
 6. be responsive on bug reports, add new tests with bug-fixes
-7. be responsive and frictionless when accepting bug-fixes
+7. be responsive and friction-less when accepting bug-fixes
 8. run a bug bounty
 9. release often
 10. keep at it
@@ -38,7 +38,7 @@ accomplish this are:
 
 In some circles, measuring and achieving some specific code coverage level is
 considered important and I will not disparage that. I think it is awesome if
-you manage to write your code and test cases so that you get greate code
+you manage to write your code and test cases so that you get great code
 coverage that is good. It will not mean terribly much and you can still have
 many bugs even so, since code coverage cannot measure code path combinations.
 

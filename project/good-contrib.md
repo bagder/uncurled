@@ -21,7 +21,7 @@ want to implement.
 ## Minimum first shot
 
 When you write code, try to make a first minimal implementation and ask for
-feedeback and confirmation that you are going in the right direction. You do
+feedback and confirmation that you are going in the right direction. You do
 not want to waste a lot of time and effort on a huge change only to learn that
 the project team prefer you implement it in a complete different manner.
 
