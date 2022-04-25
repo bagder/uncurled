@@ -8,7 +8,7 @@ expect from the code, the code-of-conduct documents the expected behavior from
 people participating in your project.
 
 Yes, for most people and in most projects, these written rules are totally
-obvious and unncessary to spell out because a major of people have a sense for
+obvious and unnecessary to spell out because a major of people have a sense for
 them by default. The document is still there and is useful to make it clear
 for newcomers and casual observers that your project is a nice place where
 people are expected to behave according to these standards. Having them

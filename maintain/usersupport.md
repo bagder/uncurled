@@ -8,7 +8,7 @@ A user asking for help is a person who have deemed your project worthy to use,
 or at least potentially use if they get it working the way they intend it to
 use it. Your response to this cry for help can be what makes this a happy user
 that sticks around forever and turns into a contributor, or someone who gives
-up and moves on to do someting else.
+up and moves on to do something else.
 
 Respond within a decent time in a friendly and accurate manner.
 
@@ -20,7 +20,7 @@ user now could make that same user able to help the next user asking an almost
 identical question next week.
 
 Of course, all user support should be feedback on how documentation can or
-should be improved so that users in the future can find the informtaion on
+should be improved so that users in the future can find the information on
 their own rather than asking for it. Even if you will never completely be able
 to avoid questions simply because for many users, asking is quicker and easier
 done than searching and reading documentation.

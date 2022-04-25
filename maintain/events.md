@@ -6,7 +6,7 @@ to get concentrated and focused work and discussions. They can truly energize
 a project and its members. Having contributors meet in real life (less so over
 video) is also a good way for us to learn how we work and to see the real
 person behind all the digital communication which can greatly enhance project
-colloboration going forward.
+collaboration going forward.
 
 Real world events are hard and time consuming to organize. A physical location
 means deciding a single place in the world for a project that could be truly

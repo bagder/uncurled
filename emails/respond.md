@@ -11,7 +11,7 @@ the main author of an Open Source library one of these giant corporations are
 using, but it backfired so many times I have realized it often just makes the
 user *more* upset than before. They often do not believe me since my code is
 in their product I must know then so when I do not help them out I am even
-more in the receiving end of their deseperation. They think I am trying to
+more in the receiving end of their desperation. They think I am trying to
 duck for or avoid the problem when I should in fact just help them.
 
 I do occasional exceptions, like if the user seem to be the victim of a scam
