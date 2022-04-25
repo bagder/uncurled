@@ -1,12 +1,12 @@
 # I will slaughter you
 
-A small portion of the emails I receive are not "funny" or pleasant at all.
-They can be direct threats of violence or death. This of course because curl
-and libcurl are also used by a fair share of bad guys.
+A small portion of the emails I receive are neither funny nor pleasant. They
+can even be direct threats of violence or death. This happens partly because
+curl and libcurl are also used by a fair share of bad guys.
 
 Malicious persons and software that attack and exploit users can also use curl
 and subsequently, every now and then you can find traces of curl where it was
-part of a setup where people were hurt, hacked or scammed.
+used in setup where people were hurt, hacked or scammed.
 
 Some victims of such attacks can find traces of curl, which again has my name
 in there somewhere and then they send their threats in my direction.
@@ -32,4 +32,4 @@ I of course had no idea what this person was talking about and I responded to
 him saying so. I ended up reporting this to the police where I live because I
 read it as a genuine threat.
 
-Many months later, the person email me again and apologized.
+Many months later, the person emailed me again and apologized.
