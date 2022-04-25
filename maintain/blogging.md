@@ -2,7 +2,7 @@
 
 In every project there are many different layers of users and levels of
 interest. On one hand, you have the core maintainers who work day in and day
-out on the code and who follow evey little change and development that then
+out on the code and who follow every little change and development that then
 know exactly what is going on. In the other end of the spectrum you have the
 occasional infrequent users who cannot quite recall the name of your project
 and mostly just use it when following a how-to guide post somewhere.

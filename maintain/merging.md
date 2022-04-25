@@ -14,7 +14,6 @@ A pending merge might not exactly prevent the submitter from starting on that
 second task in parallel before the first one is handled, but it will work as
 distraction for that contributor and over time it might also start to get
 merge conflicts that need to be taken care of. If that has to be done multiple
-times without a good motivation, that will serve as a demotivator for the
-author.
+times without a good motivation, will be demotivating for the author.
 
 Good merge handling shows good project hygiene and vice versa.

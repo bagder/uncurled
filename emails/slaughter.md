@@ -15,7 +15,7 @@ In early 2021 for example, I received an email with a subject line like this:
 
     Subject: I will slaughter you
 
-The email contained a series of screendumps with "proofs" of my alleged attack
+The email contained a series of screenshots with "proofs" of my alleged attack
 and in a following email chain the confused sender said things like:
 
     I do not care. Your bullshit software was an attack vector that cost me a
