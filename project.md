@@ -19,4 +19,3 @@ to achieve a particular aim."*
  * [Contributor License Agreement](project/cla.md)
  * [What is success?](project/success.md)
  * [A good contribution](project/good-contrib.md)
- * [Code quality](project/code-quality.md)

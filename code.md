@@ -6,3 +6,4 @@
  * [Only releases get tested](code/releases.md)
  * [Once merged, you own it](code/youownit.md)
  * [Given enough eyeballs, all bugs are shallow](code/shallow.md)
+ * [Code quality](code/quality.md)
