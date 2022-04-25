@@ -21,3 +21,8 @@ reaching out and contributing.
 If your project is working within Internet protocols, I strongly encourage
 you to at least casually keep up with the work [IETF](https://www.ietf.org) is
 doing within the area of your interest.
+
+## Non-open standards
+
+Conversely, standards that are proprietary and are hidden behind paywalls are
+evil and we are all better off trying to not get involved with those.
