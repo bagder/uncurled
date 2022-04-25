@@ -44,6 +44,8 @@
   * [The project is "we"](project/we.md)
   * [Contributor License Agreement](project/cla.md)
   * [What is success?](project/success.md)
+  * [A good contribution](project/good-contrib.md)
+  * [Code quality](project/code-quality.md)
 * [Money](money.md)
   * [Volunteers make things different](money/volunteer.md)
   * [Companies pay for features](money/companies.md)
@@ -100,3 +102,4 @@
   * [Drift gamepad on PS5](emails/ps5.md)
   * [I will slaughter you](emails/slaughter.md)
   * [How I respond](emails/respond.md)
+* [Epilogue](epilogue.md)
