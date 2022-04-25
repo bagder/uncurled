@@ -1,11 +1,11 @@
-# Help out your neighbors
+# Help your neighbors
 
-Neighbors in the sense of projects that you use, depend on or interact with in
+*Neighbors* in the sense of projects you use, depend on or interact with in
 your project.
 
-It just makes sense to assist with the projects you use and need so that they
-can flourish and improve in ways that by extension makes your project better
-or easier to develop etc.
+It makes sense and is in your own interest to assist with the projects you use
+and need so that they can flourish and improve in ways that by extension makes
+your project better or easier to develop etc.
 
 Your project cannot succeed and become that bright north star on the sky you
 want it to be, unless it can be carried forward and upward to that position by

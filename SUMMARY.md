@@ -39,7 +39,7 @@
   * [Old versions never die](project/never-die.md)
   * [Keep. On. Improving.](project/keep-on.md)
   * [Clean up your backyard](project/backyard.md)
-  * [Help out your neighbors](project/neighbors.md)
+  * [Help your neighbors](project/neighbors.md)
   * [Open standards are your friends](project/standards.md)
   * [The project is "we"](project/we.md)
   * [Contributor License Agreement](project/cla.md)
