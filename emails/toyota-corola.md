@@ -34,27 +34,28 @@ occasional email about seemingly random car problems?
 
     Hello,
     
-    I am using in a new Ford Mondeo the navigation system with SD Card FM5T-19H449-FC Europe F4.
-    I can read the card but  not write on it. I want to add to the card some POI´s.
-    Can you help me to do it?
+    I am using in a new Ford Mondeo the navigation system with SD Card
+    FM5T-19H449-FC Europe F4. I can read the card but  not write on it. I
+    want to add to the card some POI´s. Can you help me to do it?
 
 ## Bluetooth delay
 
     Hello sir
     
-    I have Avalon 2016. Regarding the audio player, why there delay between audio and video
-    when connect throw Bluetooth and how to fix it.
+    I have Avalon 2016. Regarding the audio player, why there delay between
+    audio and video when connect throw Bluetooth and how to fix it.
 
 ## Update software
 
     Daniel -
 
-    I recently purchased a 2009 BMW Z4. The iDrive software indicates “Copyright (c)
-    1996-2010, Daniel Stenberg). I’ve purchased a video interface that allows me to
-    add a backup camera. However, the interface requires that I update the iDrive
-    software to the latest version from BMW. However, there is no software update
-    function within the current iDrive menu. Is there a way to revert the iDrive to
-    the original or current software?
+    I recently purchased a 2009 BMW Z4. The iDrive software indicates
+    “Copyright (c) 1996-2010, Daniel Stenberg). I’ve purchased a video
+    interface that allows me to add a backup camera. However, the interface
+    requires that I update the iDrive software to the latest version from
+    BMW. However, there is no software update function within the current
+    iDrive menu. Is there a way to revert the iDrive to the original or
+    current software?
 
 ## Navigation update
 
@@ -64,16 +65,16 @@ occasional email about seemingly random car problems?
 ## Opel Insignia
 
     Dear Daniel Stenberg!
-    My name is ****** ****** from Hungary. I write to you, because I have a problem
-    with my cars Infotainment system, and I found your name in the vehicle
-    instruction manual. I've bought a brand new Opel Insignia Sports Tourer in
-    December 2018, from an official Opel dealer in Hungary. Unfortunately, with in a
-    week , a problem has come up with the Infotainment System, which is the newest
-    Multimedia Navi Pro system:
-    The WI-FI Networks menu point has grayed out( I can't open it ) , after I
-    activated the OnStar services. Later I asked the OnStar serice center to switch
-    it off but nothing has changed. I want to emphasise that during the first few
-    days, after I took the car from the dealer, it was working well, and I could open
-    properly this menu point, and since activating the OnStar system it has gone
-    wrong. What could be the problem, and why I can't reach this WI-FI networks menu
-    point?
+    My name is ****** ****** from Hungary. I write to you, because I have a
+    problem with my cars Infotainment system, and I found your name in the
+    vehicle instruction manual. I've bought a brand new Opel Insignia Sports
+    Tourer in December 2018, from an official Opel dealer in Hungary.
+    Unfortunately, with in a week, a problem has come up with the Infotainment
+    System, which is the newest Multimedia Navi Pro system:
+    The WI-FI Networks menu point has grayed out (I can't open it), after I
+    activated the OnStar services. Later I asked the OnStar serice center to
+    switch it off but nothing has changed. I want to emphasise that during the
+    first few days, after I took the car from the dealer, it was working well,
+    and I could open properly this menu point, and since activating the OnStar
+    system it has gone wrong. What could be the problem, and why I can't reach
+    this WI-FI networks menu point?
