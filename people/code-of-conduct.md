@@ -8,10 +8,10 @@ expect from the code, the code-of-conduct documents the expected behavior from
 people participating in your project.
 
 Yes, for most people and in most projects, these written rules are totally
-obvious and unnecessary to spell out because a major of people have a sense for
-them by default. The document is still there and is useful to make it clear
-for newcomers and casual observers that your project is a nice place where
-people are expected to behave according to these standards. Having them
+obvious and unnecessary to spell out because a majority of people has a
+natural sense for them. The document is still there and is useful to make it
+clear for newcomers and casual observers that your project is a nice place
+where people are expected to behave according to these standards. Having them
 spelled out removes the need for people to try to get a sense for unwritten
 rules and concepts that can be difficult to figure out until someone actually
 tries to break one of those invisible lines. Such "invisible lines" are also
