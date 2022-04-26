@@ -5,7 +5,6 @@ to achieve a particular aim."*
 
  * [Just a bunch of people](project/bunch.md)
  * [People come and go](project/come-and-go.md)
- * [It is never finished](project/never-finished.md)
  * [Over time, maintenance grows](project/maintenance.md)
  * [Documentation is never good enough](project/docs.md)
  * [If not alive, it is dead](project/not-alive.md)
