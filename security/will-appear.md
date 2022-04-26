@@ -7,3 +7,9 @@ flamed badly once a security flaw is pointed out and gets handled by the
 public. This is not saying that you cannot have processes and develop code to
 be more secure than others. You can and you should.
 
+We judge projects based on how they handle their security problems, not by
+their existence.
+
+We *never* compare projects by counting published past security
+vulnerabilities. It does not work. A project having reported more issues might
+have had more scrutiny or just set the bar lower than the project with fewer.
