@@ -9,7 +9,7 @@ prefer, email me directly at `daniel@haxx.se`.
 
 ## Books
 
-If you want to find related books on the topic of Open Source, I recommend:
+If you want to find related books on the topic of making Open Source, I recommend:
 
  - [Working in Public: The Making and Maintenance of Open Source
 Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
