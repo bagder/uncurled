@@ -13,3 +13,14 @@ their existence.
 We *never* compare projects by counting published past security
 vulnerabilities. It does not work. A project having reported more issues might
 have had more scrutiny or just set the bar lower than the project with fewer.
+
+## "Your project is insecure"
+
+Even when you do everything by the book and follow every best practice to the
+point on how to handle security problems; you fix the problems, you register
+CVEs and you disclose them responsibly with all details documented, you can be
+sure that parts of your audience will react badly.
+
+They will think that because you published a security vulnerability, your
+project has a bigger problem of insecurity. As if not all actively developed
+projects get these problems, either open or proprietary.
