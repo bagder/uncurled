@@ -27,6 +27,10 @@ what it is intended and documented to do. Having a good test suite will also
 help cover for mistakes done in the review process, as blatant omissions
 should lead to test failures and an amended patch.
 
+A good test suite also makes participation easier for outsiders. Newcomers can
+test their changes better and with more confidence before proposing a patch
+- and avoid embarrassment.
+
 I also find that it helps to add as many tests of the documentation as
 possible. Like for example if you have lists or indexes of topics, write a
 script that checks that the list is complete. Check that cross-references
