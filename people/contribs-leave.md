@@ -8,4 +8,4 @@ not be around anymore once you have pushed their patch.
 
 Many contributors are just users who will fix a specific problem or an issue
 that they have and want fixed, and once that is done their mission in your
-project is done and they wonder off again. All improvements of are good.
+project is done and they wander off again. All improvements are good.
