@@ -14,15 +14,15 @@ promising and friendly response came from **libssh2**, so I made my choice.
 In November 2006 we started to add support for SCP and SFTP to curl based on
 libssh2, and at the same time I started contributing improvements in the
 libssh2 project. In particular to make sure the API could be set to and behave
-in non-blocking way.
+in a non-blocking way.
 
 libssh2 was founded by Sara Golemon in 2004 and she was still the lead
-developer when I joined the project but I soon become a co-maintainer and when
+developer when I joined the project but I soon became a co-maintainer and when
 Sara changed jobs in 2007 she was prohibited to contribute to the libssh2
-project anymore and I became almost the sole maintainer.
+project anymore and I became almost the primary maintainer.
 
-I am still a maintainer of the libssh2 project but I try to keep my activities
-to a minimum. Others do the real work there now.
+I am still a maintainer of the libssh2 project in 2022, but I try to keep my
+activities to a minimum. Others do the real work there now.
 
 In OpenSSF's [criticality score](https://github.com/ossf/criticality_score)
 update in early 2021 where they rank how critical Open Source projects are to
