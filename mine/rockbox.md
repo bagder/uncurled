@@ -9,8 +9,8 @@ that model, other manufacturers and brands had already released some devices.
 One of the first mp3 players on the market was the "Archos Player" with its
 massive 6 GB hard drive. My brother Björn and our common friend Linus
 purchased these devices, only to soon realize that while the device was nice,
-the software were lacking several features you would think such a device
-should be able to provide. How hard would it be to write our own replacement?
+the software was lacking several features you would think such a device should
+be able to provide. How hard would it be to write our own replacement?
 
 The challenge truly piqued our curiosity. With a lot of reverse engineering
 and hard work, we figured out how to replace the software in the devices with
