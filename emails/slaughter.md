@@ -21,12 +21,13 @@ and in a following email chain the confused sender said things like:
     I do not care. Your bullshit software was an attack vector that cost me a
     multimillion dollar defense project.
 
-    Your bullshit software has been used to root me and multiple others. I lost over
-    $15k in prototyping alone from bullshit rooting to the charge arbitrators.
+    Your bullshit software has been used to root me and multiple others. I lost
+    over $15k in prototyping alone from bullshit rooting to the charge
+    arbitrators.
 
     I have now since October been sandboxed because of your bullshit software so
-    dipshit google kids  could grift me trying to get out  of the sandbox because
-    they are too **** poor to know shat they are doing.
+    dipshit google kids  could grift me trying to get out  of the sandbox
+    because they are too **** poor to know shat they are doing.
 
 I of course had no idea what this person was talking about and I responded to
 him saying so. I ended up reporting this to the police where I live because I
