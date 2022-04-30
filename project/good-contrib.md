@@ -27,7 +27,8 @@ the project team prefer you implement it in a complete different manner.
 
 ## Tests and documentation
 
-Provide test cases and accompanying documentation for your change.
+Provide test cases and accompanying documentation for your change. Make sure
+your contribution can run through all the existing test cases fine.
 
 ## Act on feedback
 
