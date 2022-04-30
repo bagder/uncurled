@@ -1,6 +1,6 @@
 # Code quality
 
-The quality of your project is of course going to important to users if your
+The quality of your project is of course going to be important to users of your
 product or service.
 
 A project is however *expected* to start as a baby and have its problems at
@@ -45,6 +45,6 @@ many bugs even so, since code coverage cannot measure code path combinations.
 In my projects, the code complexity and the portability and conditional
 sections of the code etc have always made it extremely hard to generate and
 measure code coverage to any meaningful level, so I have rarely done so. I
-believe we have still managed to product fairly good code just based on the
+believe we have still managed to produce fairly good code just based on the
 basic principle outlined above.
 
