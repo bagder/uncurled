@@ -16,6 +16,6 @@ perhaps be under the impression that people would tell you these things.
    forum - without hiding where they come from or what product they make
 2. While vanity-searching you find your project's Open Source license
    mentioned for or bundled with a product
-3. A user email you asking funny questions about a product you never heard of,
+3. A user emails you asking funny questions about a product you never heard of,
    and then you realize they found your email because that product uses your
    code and your license has your email
