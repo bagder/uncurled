@@ -17,7 +17,7 @@ change jobs, they find spouses, they get kids, they switch to a competing
 project - in a sense, every other Open Source project in existence is a
 competitor as in they also want the time and energy from contributors and
 every contributor only have their limited amount of time and energy to spend
-on Open Source. If you are unlucky, the spend their precious time in another
+on Open Source. If you are unlucky, they spend their precious time in another
 project.
 
 Sometimes people will leave your project in the most inconvenient moment. We
