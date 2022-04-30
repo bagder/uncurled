@@ -7,7 +7,7 @@ users.
 
 Application authors or product manufacturers will also just get your stuff,
 build it and use it and not tell you about them using your product. This is of
-course perfectly within their rights. I tell you think because you could
+course perfectly within their rights. I tell you this because you could
 perhaps be under the impression that people would tell you these things.
 
 ## How to find out that someone uses your code
