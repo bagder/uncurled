@@ -37,10 +37,10 @@ primarily to aid your users to debug the problem.
 
 The code is provided as-is without any warranty. Even the people who are
 loudest, shouts the most or use the foulest language know this. Users who
-cannot follow the code of contact should be banned and ignored at once. For
+cannot follow the code of conduct should be banned and ignored at once. For
 users who are annoying but not over the line bad, I try hard to extract their
 actual technical arguments in my mind and talk about those without being
-mislead by insinuations and other bad manners. Also, for my own sanity I tend
+misled by insinuations and other bad manners. Also, for my own sanity I tend
 to "rate-limit" people I find hard to work with; as long as they are rude I
 respond with longer and longer intervals.
 
