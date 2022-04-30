@@ -9,7 +9,7 @@ would accept and do the job.
 In more situations than not, the paying company would then ask for and prefer
 that I maintain all copyrights for all the changes and that I not make it
 publicly noticeable that this was in fact paid for by this company. For the
-casual outsider, it appears as if I just had a period if extra motivation and
+casual outsider, it appears as if I just had a period of extra motivation and
 energy and one fine day delivered this feature.
 
 Why companies would not want to use their sponsoring an Open Source project
