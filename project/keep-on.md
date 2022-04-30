@@ -7,7 +7,7 @@ they never will.
 
 A recognized and much appreciated quality in any software is longevity. With
 age comes a proof that you know how to endure time and persist. That the
-project is maintained in a decent way and that after this amount o time no
+project is maintained in a decent way and that after this amount of time no
 major disaster has been found.
 
 With time, other people have also tested your project and there will be
