@@ -3,10 +3,10 @@
 The quality of your project is of course going to important to users if your
 product or service.
 
-An project is however *expected* to start as a baby and have its problems at
-first, and nobody will believe that it is perfect to start with. Over time,
-you improve and you iterate on design and code. You add tests, you run more
-tools and you build automated systems to do it for you.
+A project is however *expected* to start as a baby and have its problems at
+first, and nobody will expect that it is perfect to start with. Over time, you
+improve and you iterate on design and code. You add tests, you run more tools
+and you build automated systems to do it for you.
 
 There is no point in putting in all that energy and try to make everything
 perfect from day one.
