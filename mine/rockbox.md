@@ -20,7 +20,7 @@ firmware replacement that worked on several dozens of different portable music
 players from a handful of different brands. Rockbox was a tiny, simple
 operating system made to just have a music player application run. Albeit an
 application that could run games, including doom (of course), have better
-battery live than the factory firmware and support many more music and audio
+battery life than the factory firmware and support many more music and audio
 formats than the original software did.
 
 We had physical annual developer meetups during several years where Rockbox
