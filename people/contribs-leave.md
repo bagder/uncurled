@@ -13,7 +13,7 @@ project is done and they wander off again. All improvements are good.
 ## Promoting to maintainers
 
 Ideally, you not only want your contributors to stick around, you want them to
-participate and appreciate the project to a level so that you can prompose
+participate and appreciate the project to a level so that you can promote
 them to become (co-) maintainers of the project.
 
 A maintainer is usually the term used for participants in the project with
