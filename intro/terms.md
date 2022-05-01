@@ -5,7 +5,7 @@ I will use some of these terms in this book.
 ## Open Source
 
 The "Open Source" label was created in February 1998 by a team of individuals
-who would subsequently create the organization **Open Source Initiative** that
+who would subsequently created the organization **Open Source Initiative** that
 same month.
 
 "Open Source" is a [ten-point definition](https://opensource.org/osd)
