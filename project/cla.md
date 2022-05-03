@@ -12,9 +12,9 @@ project in question.
 Projects want those signed over rights so that they can do what they please
 with the code, even when it contains contributions from random contributors.
 This often includes making special versions of the software under a different
-license. Such re-licensing of code requires that all copyright owners agree to
-it, so by making your you own everything or have the signed-over rights, there
-is no obstacle for doing it.
+license. Normally, such re-licensing of code requires that all copyright owners
+agree to it. However, enforcing CLA ensures that you own everything or have the
+signed-over rights, removing such obstacles from doing so.
 
 For the individual contributor, a CLA is a often considered a red flag:
 
