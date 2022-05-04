@@ -17,10 +17,11 @@ The questions are often a result of utter desperation when the human out there
 in the other end has tried everything else, turned every stone and I am now
 perhaps the last chance to get their issue handled.
 
-In my end, these questions often come completely out of the blue and concerns
-products and subjects I have not got the faintest idea on how to handle, and I
-am quite surely never the right person to ask. I usually did not even know
-that my code was used in the device or application that causes the concern.
+From my point of view, these questions come completely out of the blue and
+concern products and subjects I have not got the faintest idea on how to
+handle, and I am quite surely never the right person to ask. I usually did not
+even know that my code was used in the device or application that causes the
+concern.
 
 To me, they often just end up confusing and sometimes downright funny. Without
 revealing who sent them, let me show you some real world examples of email I
