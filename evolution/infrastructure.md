@@ -37,7 +37,7 @@ complicated. It is not anymore.
 ## Version control
 
 RCS was replaced by CVS which was replaced by Subversion for a short while
-until the distribution version control systems really took off.
+until the distributed version control systems really took off.
 
 Today, git is really the version control champion and we are all so much
 better off now than we ever were before.
