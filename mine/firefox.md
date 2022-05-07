@@ -1,7 +1,7 @@
 # Firefox
 
 In November 2013 I flew over to the US and visited the Mozilla offices in
-Mountain view, California for a day full of job interviews. I think I did
+Mountain View, California for a day full of job interviews. I think I did
 seven of them, back to back, over the course of that day.
 
 In most of the interviews, we soon touched the fact that I was the main author
