@@ -6,9 +6,9 @@ verify in CI jobs etc that the scripts work.
 
 I have personally done several hundred releases of my Open Source projects
 over the years, and my single best advice is: use a checklist. It took me a
-while to learn this hard lesson myself and I do not how many releases I have
-screwed up in my life simply because I forgot some little detail along the
-way. I have learned that if I have every tiny little detail in the release
+while to learn this hard lesson myself and I do not know how many releases 
+I have screwed up in my life simply because I forgot some little detail along 
+the way. I have learned that if I have every tiny little detail in the release
 process documented, I can not only make sure that I can follow it and do an
 identical release the next time, I can also at some point in a much easier way
 hand over that duty to someone else, with great confidence that it will work.
