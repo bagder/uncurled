@@ -8,7 +8,7 @@ By offering money to researchers, you will "buy their eyeball time" for a
 little while. Many of those will otherwise simply move on and rather spend
 their limited time and energy on other projects that *do* offer rewards.
 
-## The Bug Bounty Paradox
+## The Paradox
 
 By offering monetary rewards for *finding* security problems, you might find
 yourself in a situation where you pay for the finding but all the developers
@@ -21,3 +21,22 @@ flaws detected in my own Open Source projects, finding the problem is usually
 the tough part. Once the problem has been identified and brought into the
 light of day, actually fixing it is nine out of ten times a rather straight
 forward action.
+
+## Bounty yearning
+
+There is a downside with bounties too. People will yearn for that monetary
+reward to an extent that will lead to more work for the project. People will
+run automatic scanners, send you the unedited output and claim they found
+security problems. Even if they all turn out to be false positive. They will
+take existing security flaws look for a slightly different angles of the same
+things and report them as security problems. By offering money you (also)
+attract the ones who are after money rather than having a desire to address
+actual problems.
+
+## Beg Bounty
+
+Even projects *without* a bug bounty system setup will occasionally receive
+requests or outright demands for monetary rewards anyway. Someone once used
+the lovely term *beg bounty* for this. Some users will also try the blackmail
+style of reporting to get what they want: "I found a problem that I will tell
+you about if you agree to pay me dollars".
