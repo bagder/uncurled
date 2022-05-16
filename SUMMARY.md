@@ -48,7 +48,7 @@
   * [Volunteers make things different](money/volunteer.md)
   * [Companies pay for features](money/companies.md)
   * [Many companies rather not say](money/notsay.md)
-  * [Getting donations is hard](money/donations.md)
+  * [Donations](money/donations.md)
   * [You get what you pay for](money/what-you-pay-for.md)
   * [Starting to charge is difficult](money/start-charge.md)
   * [Should companies pay?](money/should-pay.md)
