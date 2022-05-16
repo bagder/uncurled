@@ -1,5 +1,7 @@
 # Uncurled
 
+![Uncurled](uncurled.jpg)
+
 **Uncurled** - everything I know and learned about running and maintaining Open
 Source projects for three decades.
 
