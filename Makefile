@@ -1,4 +1,4 @@
-MDS := $(shell grep -o '[a-z0-9/-]\+\.md' SUMMARY.md | grep -v index.md) README.md
+MDS := README.md $(shell grep -o '[a-z0-9/-]\+\.md' SUMMARY.md | grep -v index.md) 
 
 all: proselint wordcheck
 
@@ -10,3 +10,6 @@ wordcheck:
 
 wc:
 	@wc $(MDS)
+
+epub:
+	pandoc -o uncurled.epub epub.txt $(MDS)
