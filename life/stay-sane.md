@@ -36,7 +36,7 @@ primarily to aid your users to debug the problem.
 ## Aggressive users
 
 The code is provided as-is without any warranty. Even the people who are
-loudest, shouts the most or use the foulest language know this. Users who
+loudest, shout the most or use the foulest language know this. Users who
 cannot follow the code of conduct should be banned and ignored at once. For
 users who are annoying but not over the line bad, I try hard to extract their
 actual technical arguments in my mind and talk about those without being
