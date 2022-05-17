@@ -1,6 +1,6 @@
 # The know-it-best people
 
-Even old and well tested code will be questioned by the know-it-best people
+Even old and well tested code will be questioned by the know-it-best people.
 
 The opposite of the previous paragraph. No matter how well tested and proven a
 particular functionality or piece of code is, every now and then the
