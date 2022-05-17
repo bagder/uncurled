@@ -7,7 +7,7 @@ the project - sometimes without saying anything - because of health
 reasons. This includes both physical and mental health.
 
 As a maintainer, people in the project might look up to you to lead and guide
-them in a slightly wider meaning that you want and have planned for, but you
+them in a slightly wider meaning than you want and have planned for, but you
 cannot duck for it. You might need to help a fellow contributor to move in the
 right direction.
 
