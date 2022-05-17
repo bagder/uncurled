@@ -1,6 +1,6 @@
 # Attracting developers and community
 
-There is only one main and foolproof way to attract user (who then might
+There is only one main and foolproof way to attract users (who then might
 become contributors and developers): make an Open Source project that is
 attractive and compelling. Make a product people want and do it in a project
 that makes contributors want to come and to stay around and help out.
