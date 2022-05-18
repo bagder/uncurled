@@ -9,6 +9,8 @@ repository](https://github.com/bagder/uncurled) hosted on GitHub.
 The canonical URL for this book is `https://un.curl.dev`. The book is rendered
 to web format by `gitbook.com`.
 
+The [EPUB version of Uncurled](https://daniel.haxx.se/uncurled/).
+
 If you find a problem or error in this book, or only want to request
 additional details or a clarification, [submit an
 issue](https://github.com/bagder/uncurled/issues) or propose a change directly
