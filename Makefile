@@ -12,4 +12,7 @@ wc:
 	@wc $(MDS)
 
 epub:
-	pandoc -o uncurled.epub epub.txt $(MDS)
+	pandoc -o uncurled.epub --epub-cover-image=uncurled.jpg epub.txt $(MDS)
+
+pdf:
+	pandoc -o uncurled.pdf $(MDS)
