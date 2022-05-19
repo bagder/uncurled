@@ -16,5 +16,8 @@ additional details or a clarification, [submit an
 issue](https://github.com/bagder/uncurled/issues) or propose a change directly
 with a [pull request](https://github.com/bagder/uncurled/pulls).
 
+This book is free but if you find it valulable, consider donating me a cup of
+coffee via [GitHub sponsors](https://github.com/sponsors/bagder).
+
 The contents of this book is licensed as [Creative Commons Public License
 Attribution 4.0 International](../LICENSE).
