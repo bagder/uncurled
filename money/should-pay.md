@@ -1,6 +1,6 @@
 # Should companies pay?
 
-Open Source software is by usually cheaper than other software, at least in
+Open Source software is usually cheaper than other software, at least in
 acquisition. Going with an Open Source solution typically means that a company
 only needs to spend engineering time and the rest is free. Usually they
 already have engineers onboard, adding work on their tables is "free".
