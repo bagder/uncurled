@@ -1,13 +1,13 @@
 # Introduction
 
-I have started, lead and maintained many projects over several decades, out of
-which the most known one is probably [the cURL project](https://curl.se) I
+I have started, led and maintained many projects over several decades, out of
+which the most known one is probably [the cURL project](https://curl.se). I
 founded and have been leading since 1998. I have contributed to and
 participated in many more projects and I have of course used and kept myself
 up-to-date with a large number of projects in which I did not personally
 participate.
 
-I first learned to program on the Commodore 64 as a teenager 1985 and after
+I first learned to program on the Commodore 64 as a teenager in 1985 and after
 some years I transitioned over to C programming, first on Amiga and then on
 Unix systems. I released my first source code to the public in the early
 1990s - years before the term Open Source was first coined. I have since then
