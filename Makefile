@@ -11,8 +11,13 @@ wordcheck:
 wc:
 	@wc $(MDS)
 
-epub:
-	pandoc -o uncurled.epub --epub-cover-image=uncurled.jpg epub.txt $(MDS)
+uni.md:
+	./uni.py $(MDS)
 
-pdf:
-	pandoc -o uncurled.pdf pdf.txt $(MDS)
+epub: uni.md
+	pandoc -o uncurled.epub --epub-cover-image=uncurled.jpg epub.txt uni.md
+	rm uni.md
+
+pdf: uni.md
+	pandoc -o uncurled.pdf pdf.txt uni.md
+	rm uni.md
