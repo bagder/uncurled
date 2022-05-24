@@ -30,7 +30,7 @@ bored by.
 
 In projects I spend my efforts as a volunteer and nobody pays me for specific
 tasks it is important to have a laid back attitude and remember that they can
-always just fix it themselves if the really need to. I do not *have to* work
+always just fix it themselves if they really need to. I do not *have to* work
 on the bug or answer the questions immediately unless I want to. I can
 actually spend time implementing a silly new feature instead of doing user
 support over a weekend just because it is fun. It helps me keeping the joy of

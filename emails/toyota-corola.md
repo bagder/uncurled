@@ -6,7 +6,7 @@ increasingly often a curl install. curl is a part of several standard software
 offers for cars and is used in lots of other independent software installs as
 well.
 
-This usually has a minuscule affect on my every day. I am of course thrilled
+This usually has a minuscule effect on my every day. I am of course thrilled
 over hundreds of millions of more curl installations in the world but the
 companies that ship curl for these vehicles normally do not contact me and
 curl is a really stable product so not a lot of them speak up on the issue

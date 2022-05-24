@@ -10,8 +10,8 @@ As a maintainer of a project you will at times be looked upon or asked to
 provide stickers, t-shirts, hats or other merchandise with your team logo on
 them. It is hard area to actually make money from, but they are products that
 can help create a bond and team spirit. It is fun and encouraging that there
-are a bunch of people out there who wants nothing more than to put the symbol
-of your project onto the covert of their laptops.
+are a bunch of people out there who want nothing more than to put the symbol
+of your project onto the cover of their laptops.
 
 One hard to circumvent problem with merchandise is that they are physical
 goods so it immediately gets expensive to send out to people all over the
