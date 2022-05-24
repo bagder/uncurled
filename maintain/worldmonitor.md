@@ -7,7 +7,7 @@ users are expecting and anticipating.
 Learning from what competitors do and implement and what their users ask for
 or complain about can indirectly work as feedback for you.
 
-Keeping on eye on what is going on in the standards organizations for things
+Keeping an eye on what is going on in the standards organizations for things
 that are related to your project is another way to "put your ear to the
 ground". It gives you a sense of what people are working on and hope to see
 use for going forward.
