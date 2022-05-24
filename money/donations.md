@@ -58,7 +58,7 @@ income it can be hard to use it for development. People have full-time jobs
 with responsibilities, mortgages to pay and families to feed. Taking time off
 work to do part-time assignments for an Open Source project for hire is only
 possible for a rare few. Lots of employers even forbid their employees from
-dosing it.
+doing it.
 
 ## Grants can be difficult too
 

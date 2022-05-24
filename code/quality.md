@@ -39,7 +39,7 @@ accomplish this are:
 In some circles, measuring and achieving some specific code coverage level is
 considered important and I will not disparage that. I think it is awesome if
 you manage to write your code and test cases so that you get great code
-coverage that is good. It will not mean terribly much and you can still have
+coverage. It will not mean terribly much and you can still have
 many bugs even so, since code coverage cannot measure code path combinations.
 
 In my projects, the code complexity and the portability and conditional

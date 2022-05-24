@@ -27,8 +27,8 @@ forward action.
 There is a downside with bounties too. People will yearn for that monetary
 reward to an extent that will lead to more work for the project. People will
 run automatic scanners, send you the unedited output and claim they found
-security problems. Even if they all turn out to be false positive. They will
-take existing security flaws look for a slightly different angles of the same
+security problems. Even if they all turn out to be false positives. They will
+take existing security flaws, look for a slightly different angles of the same
 things and report them as security problems. By offering money you (also)
 attract the ones who are after money rather than having a desire to address
 actual problems.

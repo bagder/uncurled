@@ -12,4 +12,4 @@ which was basically unheard of back in the 1990s.
 
 Now you can get to work for companies and work on Open Source all day. You can
 get support deals and contract development to do Open Source from companies in
-ways that was not possible before.
+ways that were not possible before.

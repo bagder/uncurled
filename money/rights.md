@@ -2,7 +2,7 @@
 
 Who has the right to the money donated to and owned by the project?
 
-In a project with no formal leadership and no one gets paid to work on it,
+In a project with no formal leadership where no one gets paid to work on it,
 that ends up getting some [donations](donations.md), there is room for
 friction and unhappiness when money is spent. While getting donations might be
 hard, spending donations can be even harder.

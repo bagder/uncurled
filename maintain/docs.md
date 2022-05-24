@@ -9,7 +9,7 @@ and to cover as many details as possible so that users and developers can find
 answers to their problems by reading rather than asking questions that take
 time for other humans to respond to.
 
-By extending and polishing the documentation, you ideally set yourself up and
+By extending and polishing the documentation, you ideally set yourself up to
 offload work from your future self from questions.
 
 Providing clear and accurate documentation is hard and I have learned that you
