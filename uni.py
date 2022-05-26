@@ -29,15 +29,23 @@ def uni_file(path, n=0):
             ref_path = ref_path[1:-1]
             new_content += ['\n']
             new_content += uni_file(ref_path, n+1)
-        elif re.search("\[.+\]\(.+\.md\)", i):
-            ref = re.search("\[.+\]\(.+\.md\)", i)
+        elif re.search("\]\(.+\.md\)", i):
+            ref = re.search("\]\(.+\.md\)", i)
             start = ref.start()
             end = ref.end()
             ref_path = ref.group()
-            ref_path = ref_path[ref_path.find('(')+1:-1]
+            ref_path = ref_path[2:-1]
             if path.rfind('/') != -1:
-                ref_path = path[:path.rfind('/')] + '/' + ref_path
-            new_line = i[:i.find('(', start)+1]+get_first_anchor(ref_path)+i[end-1:]
+                ref_path = path[:path.rfind('/')+1] + ref_path
+            new_line = i[:start+2] + get_first_anchor(ref_path) + i[end-1:]
+            new_content.append(new_line)
+        elif re.search("\(\.\./LICENSE\)", i):
+            ref = re.search("\(\.\./LICENSE\)", i)
+            start = ref.start()
+            end = ref.end()
+            new_line = i[:start+1] + \
+                "https://creativecommons.org/licenses/by/4.0/legalcode" + \
+                i[end-1:]
             new_content.append(new_line)
         else:
             new_content.append(i)
