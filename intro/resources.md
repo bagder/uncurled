@@ -3,7 +3,7 @@
 You find details about the author of this book, Daniel, on [his
 site](https://daniel.haxx.se).
 
-The contents of this book is maintained and updated in [its git
+The content in this book is maintained and updated in [its git
 repository](https://github.com/bagder/uncurled) hosted on GitHub.
 
 The canonical URL for this book is `https://un.curl.dev`. The book is rendered
