@@ -13,7 +13,7 @@ casual outsider, it appears as if I just had a period of extra motivation and
 energy and one fine day delivered this feature.
 
 Why companies would not want to use their sponsoring an Open Source project
-for marketing purposes and good will always baffles me. I have heard it
+for marketing purposes and good will always baffle me. I have heard it
 explained by things like that the company does not want their competitors to
 so obviously spot that they use this project, but that seems like an odd and
 weak argument.
