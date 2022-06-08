@@ -13,7 +13,7 @@ baby.
 ## Time is not free
 
 When I talk to or about companies such as the imaginary one above, I try to
-emphasize and underscore that engineering time is not free - not even for
+emphasize and underscore that engineering time is not free – not even for
 them. Their engineers only have a certain amount of time in their work days
 and if the company would pay me to handle my Open Source related matters, I
 would do it (probably) much more effectively and spend less time on it and it
