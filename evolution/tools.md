@@ -1,7 +1,7 @@
 # Tools
 
 Independently of what language you write your Open Source in or with, the
-toolchains - usually them too being Open Source - have grown and improved
+toolchains – usually them too being Open Source – have grown and improved
 significantly over the decades.
 
 The tools and editors you write code with are way more advanced.

@@ -42,7 +42,7 @@ about game related problems or services.
     Subject: possible bug
 
     Hi. I didn't find other way to contact with PoB developers, so writing
-    here - please redirect this letter to proper people.
+    here – please redirect this letter to proper people.
     I think i found bug
     when i'm using nightblade support (with dual strike for example) while
     having varunastra equipped (2 obviously), it doesn't add any crit multi

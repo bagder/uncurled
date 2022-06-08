@@ -10,7 +10,7 @@ participate.
 I first learned to program on the Commodore 64 as a teenager 1985 and after
 some years I transitioned over to C programming, first on Amiga and then on
 Unix systems. I released my first source code to the public in the early
-1990s - years before the term Open Source was first coined. I have since then
+1990s – years before the term Open Source was first coined. I have since then
 spent many hours every week throughout my entire life contributing to Open
 Source projects, my own and others'. I have worked exclusively with Open
 Source professionally since 2014 for Mozilla and since 2019 for wolfSSL.

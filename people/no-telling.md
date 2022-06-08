@@ -13,7 +13,7 @@ perhaps be under the impression that people would tell you these things.
 ## How to find out that someone uses your code
 
 1. The user of your project runs into an issue and asks for help in a project
-   forum - without hiding where they come from or what product they make
+   forum – without hiding where they come from or what product they make
 2. While vanity-searching you find your project's Open Source license
    mentioned for or bundled with a product
 3. A user emails you asking funny questions about a product you never heard of,

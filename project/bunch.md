@@ -15,7 +15,7 @@ describing what the project actually does.
 
 The project is rarely a formal or legal entity anywhere, at least as a start.
 Many projects that succeed, later grow up and turn into more formal
-organizations, or join other umbrella organizations to become part of them -
+organizations, or join other umbrella organizations to become part of them –
 and some are even run and owned by companies in the first place that then own
 the name and maybe even associated resources. But some projects remain
 collected solely under that name.

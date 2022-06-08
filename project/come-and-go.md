@@ -14,7 +14,7 @@ users just suddenly vanish.
 
 The low barrier to entry is also a low barrier to exit. People get bored, they
 change jobs, they find spouses, they get kids, they switch to a competing
-project - in a sense, every other Open Source project in existence is a
+project – in a sense, every other Open Source project in existence is a
 competitor as in they also want the time and energy from contributors and
 every contributor only have their limited amount of time and energy to spend
 on Open Source. If you are unlucky, they spend their precious time in another

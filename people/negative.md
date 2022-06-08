@@ -8,7 +8,7 @@ you and your community.
 Out of all the feedback you will get to and about a typical project, only a
 small fraction will be positive. Most of the things and features you ship that
 just work will prosper without getting any comments, while you will hear a lot
-about bugs and flaws - both the real kind as well as the ones people think
+about bugs and flaws – both the real kind as well as the ones people think
 exist because they misunderstood something. Being an Open Source project
 maintainer means you should grow thick skin to endure a fair amount of
 criticism.
