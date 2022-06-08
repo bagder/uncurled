@@ -30,7 +30,7 @@ user has a known brand associated with it. Even if that user seems to be upset
 or acts aggressively.
 
 Ask a lot of questions. Figure out how to reproduce. Analyze. Debug. Fix. And
-take it calm. The code is Open Source, your job - even as a maintainer - is
+take it calm. The code is Open Source, your job – even as a maintainer – is
 primarily to aid your users to debug the problem.
 
 ## Aggressive users

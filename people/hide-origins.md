@@ -17,5 +17,5 @@ Other reasons for hiding your true name and identity include people who feel
 uncertain that they will be treated badly or at least "unequal" if they
 do. Perhaps the contributor is a member of a minority group, such as
 one with a disability, a follower of an unusual religion or a woman in what is
-a seemingly male-dominated group - which might only appear male-dominated
+a seemingly male-dominated group – which might only appear male-dominated
 because the other women already present are using male-sounding aliases.

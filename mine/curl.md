@@ -8,7 +8,7 @@ almost did what I wanted. I fixed a bug or two in it and sent my improvements
 back to Rafael over email.
 
 Rafael made a few follow-up releases of the tool before he asked if I wanted
-to "take over" maintenance since I had kept on sending improvements his way -
+to "take over" maintenance since I had kept on sending improvements his way –
 and I did.
 
 In August the following year, while still using httpget to get currencies for

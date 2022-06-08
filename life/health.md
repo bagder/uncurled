@@ -3,7 +3,7 @@
 Health is more important than Open Source. You need to take care of yourself
 and the ones in your vicinity that depend on you, prior to spending time on
 your project. We need to respect that sometimes a contributor vanishes from
-the project - sometimes without saying anything - because of health
+the project – sometimes without saying anything – because of health
 reasons. This includes both physical and mental health.
 
 As a maintainer, people in the project might look up to you to lead and guide
