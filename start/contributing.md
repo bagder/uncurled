@@ -26,8 +26,8 @@ have a forum, a mailing list or just an issue tracker on GitHub.
 By starting to monitor their activities, their communication and reading up on
 their docs etc you can quickly get a feel for the project and a sense of how
 they communicate and develop their products. Ask a question and judge them by
-their response. Read their code of conduct. Verify that you agree to the
-license.
+their response. Read their code of conduct. Verify that you agree with the
+chosen license.
 
 ## Dip your toes
 
