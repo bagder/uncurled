@@ -11,3 +11,4 @@ Now is a perfect time to get into Open Source.
  * [Just do it](start/do-it.md)
  * [On license](start/license.md)
  * [Attracting developers and community](start/attract.md)
+ * [Start contributing](start/contributing.md)

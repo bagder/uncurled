@@ -13,6 +13,7 @@
   * [Just do it](start/do-it.md)
   * [On license](start/license.md)
   * [Attracting developers and community](start/attract.md)
+  * [Start contributing](start/contributing.md)
 * [People](people.md)
   * [Negative feedback](people/negative.md)
   * [Insulting attitude](people/insulting.md)
