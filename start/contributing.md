@@ -6,7 +6,7 @@ long as you are polite and friendly, but I will describe how I do it.
 
 ## Find a project
 
-You probably have a project, a tool or service that you aleady use and perhaps
+You probably have a project, a tool or service that you already use and perhaps
 even like that is Open Source. Maybe the tool has a flaw that annoys you,
 maybe it has an error message that reads wrong or it misses a key feature you
 think it should have.
@@ -33,7 +33,7 @@ license.
 
 If the project still seems interesting, you can make your first move.
 
-Find an issue, fix a problem, improve the documention, something. Make the
+Find an issue, fix a problem, improve the documentation, something. Make the
 change to the best of your ability and send it off to the project - following
 the rules and guidelines in the project.
 
@@ -51,7 +51,7 @@ versions.
 
 When your first contribution has been accepted/merged there is nothing
 stopping you from stepping up your game. Pick a bigger topic, write a bigger
-fature, fix a more complicated bug. The sky is the limit.
+feature, fix a more complicated bug. The sky is the limit.
 
 Once you feel confident enough, the project will also of course greatly
 appreciate when you help out in bug reports and review other contributors'
