@@ -26,7 +26,7 @@ A popular way to "encourage" companies to pay up, is to release Open Source
 under a dual license. Everything is under the GPL until you pay up to buy the
 same thing but under a more commercially friendly license.
 
-This works, but this setup has a few conditions that certainly aren't for
+This works, but this setup has a few conditions that certainly are not for
 every project:
 
 1. The project/BDFL needs to retain the copyrights of everything to keep the

@@ -25,3 +25,6 @@ open source=Open Source
 there's:there is
 that's:that is
 it's:it is
+it'll:it will
+aren't:are not
+didn't:did not
