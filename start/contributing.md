@@ -47,6 +47,10 @@ are comments and feedback on your contribution. Learning to take review
 comments is a necessary step. Be humble, follow advice, iterate, send updated
 versions.
 
+Be patient when waiting for reviews and feedback on your work. The maintainers
+of the projects are often volunteers and working on this in their spare time
+and through coffe breaks. Allow them ample time before you send reminders.
+
 ## Dive
 
 When your first contribution has been accepted/merged there is nothing
