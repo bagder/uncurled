@@ -35,7 +35,9 @@ If the project still seems interesting, you can make your first move.
 
 Find an issue, fix a problem, improve the documentation, something. Make the
 change to the best of your ability and send it off to the project - following
-the rules and guidelines in the project.
+the rules and guidelines in the project. Contributions can of course be
+non-code related. Localization and QA are also fine starting points for
+technical contributions. Why not help out with marketing and advocacy?
 
 Be fully prepared that as a newcomer you will make mistakes, big and small,
 and there are probably rules and patterns you missed that your contribution
