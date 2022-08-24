@@ -60,8 +60,8 @@ correct. Push back on comments when you disagree with them.
 
 Be patient when waiting for reviews and feedback on your work. The maintainers
 of the projects are often volunteers and working on this in their spare time
-and through coffe breaks. Allow them ample time before you send
-reminders. Maybe the maintainer is on vaction or takes care of a family
+and through coffee breaks. Allow them ample time before you send
+reminders. Maybe the maintainer is on vacation or takes care of a family
 emergency.
 
 ## Dive
