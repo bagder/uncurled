@@ -44,14 +44,25 @@ and there are probably rules and patterns you missed that your contribution
 are not adhering to. Expect several rounds of reviews, comments and
 suggestions of doing your change differently.
 
+## Critique
+
 Do not take review comments personal. They do not describe your person. They
-are comments and feedback on your contribution. Learning to take review
-comments is a necessary step. Be humble, follow advice, iterate, send updated
-versions.
+are comments and feedback on your contribution. Feedback can be tough to hear
+after you have worked hard to provide your improvement, but stay aware that it
+is meant with the best possible intention to provide feedback to you for this
+and future work, and to keep the project to a high standard.
+
+Learning to take review comments is a necessary step. Be humble, follow
+advice, iterate, send updated versions.
+
+It should also be noted that not all suggestions may be valid and
+correct. Push back on comments when you disagree with them.
 
 Be patient when waiting for reviews and feedback on your work. The maintainers
 of the projects are often volunteers and working on this in their spare time
-and through coffe breaks. Allow them ample time before you send reminders.
+and through coffee breaks. Allow them ample time before you send
+reminders. Maybe the maintainer is on vacation or takes care of a family
+emergency.
 
 ## Dive
 
