@@ -22,3 +22,17 @@ project.
 
 Sometimes people will leave your project in the most inconvenient moment. We
 can only pick up the pieces and move on.
+
+## Maintaining a roadmap
+
+Roadmaps and planning in a small project should probably focus on what the
+project wants done but without dates and tying the items to specific releases
+far into the future.
+
+Communicate the direction and vision and work towards getting there, but
+without assuming that certain people will be there over a certain period of
+time. Hope and wish that they still will be around, and appreciate them extra
+much when they are.
+
+If you are lucky, you will have enough maintainers and regulars to drive new
+features, work on bugs and ship new releases.
