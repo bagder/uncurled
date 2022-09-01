@@ -8,6 +8,7 @@ has been this large before.
 
 Now is a perfect time to get into Open Source.
 
- * [Just do it](start/do-it.md)
+ * [Your project](start/do-it.md)
  * [On license](start/license.md)
  * [Attracting developers and community](start/attract.md)
+ * [Contributing](start/contributing.md)

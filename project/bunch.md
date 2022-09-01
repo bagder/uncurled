@@ -15,7 +15,7 @@ describing what the project actually does.
 
 The project is rarely a formal or legal entity anywhere, at least as a start.
 Many projects that succeed, later grow up and turn into more formal
-organizations, or join other umbrella organizations to become part of them -
+organizations, or join other umbrella organizations to become part of them –
 and some are even run and owned by companies in the first place that then own
 the name and maybe even associated resources. But some projects remain
 collected solely under that name.
@@ -30,7 +30,7 @@ There is virtually no existing Open Source project that will not welcome and
 celebrate new and fresh blood contributing to the project.
 
 Usually you get roles and responsibility over time by showing will and skill.
-Once you have proven yourself and the fact that you will stick around, you can
-start reviewing others' work or maybe even get responsibilities over areas,
-particular services or topics.
+Once you have proven yourself and your ongoing commitment to the project, you
+can start reviewing others' work or maybe even get responsibilities over
+areas, particular services or topics.
 

@@ -13,7 +13,7 @@ baby.
 ## Time is not free
 
 When I talk to or about companies such as the imaginary one above, I try to
-emphasize and underscore that engineering time is not free - not even for
+emphasize and underscore that engineering time is not free – not even for
 them. Their engineers only have a certain amount of time in their work days
 and if the company would pay me to handle my Open Source related matters, I
 would do it (probably) much more effectively and spend less time on it and it
@@ -26,7 +26,7 @@ A popular way to "encourage" companies to pay up, is to release Open Source
 under a dual license. Everything is under the GPL until you pay up to buy the
 same thing but under a more commercially friendly license.
 
-This works, but this setup has a few conditions that certainly aren't for
+This works, but this setup has a few conditions that certainly are not for
 every project:
 
 1. The project/BDFL needs to retain the copyrights of everything to keep the
