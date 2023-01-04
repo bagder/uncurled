@@ -11,7 +11,7 @@ code. Few users ever read the code of any project. Including popular ones.
 
 People rather follow each other, meaning the network effect of "they use that
 product so then I shall as well" is explaining usage much more than the
-absence of bugs. An old and well-used used project is expected to have been
+absence of bugs. An old and well-used project is expected to have been
 vetted and scrutinized already *by someone else*.
 
 This said, rarely used and unpopular projects probably are reviewed and
