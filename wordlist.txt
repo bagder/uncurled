@@ -48,6 +48,8 @@ POIs
 pre
 printf
 RCS
+roadmap
+Roadmaps
 Rockbox
 runtime
 Sagula
