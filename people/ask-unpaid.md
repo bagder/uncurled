@@ -2,7 +2,7 @@
 
 The more your product and code is used by people and companies around the
 world, the more people at said companies will come back and demand answers or
-bug fixes ([often rudely](insulting.md)). Sometimes mentioning or hinting how
+bugfixes ([often rudely](insulting.md)). Sometimes mentioning or hinting how
 they are short on time, that they need their product fixed as soon as possible
 or similar.
 

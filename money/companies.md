@@ -8,5 +8,5 @@ they know that paying an already established core developer is possibly the
 best way to get a feature into a project's mainline code.
 
 You will however rarely see a company offer to help with compensation for
-generic bug fixes or other infrastructure things or improvements in the
+generic bugfixes or other infrastructure things or improvements in the
 project. And if you do, you know you are not in a small project anymore!

@@ -1,4 +1,4 @@
-# Many bug-fixes address symptoms
+# Many bugfixes address symptoms
 
 In line with that, most first version patches and fixes you get from
 contributors (who by their nature most often are not long timers in the

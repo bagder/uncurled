@@ -14,7 +14,7 @@ My methods of handling these different areas of potential stress include:
 ## Test cases
 
 With an increasing number of users, there should be an increasing number of
-test cases. By adding new test cases for new features and new bug-fixes, over
+test cases. By adding new test cases for new features and new bugfixes, over
 time there are many tests and the acts of doing another release or changing
 internals become less dangerous. The test cases combined with many releases
 over a longer time, can slowly build up a trust-level that the basics

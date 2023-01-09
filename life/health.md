@@ -18,6 +18,6 @@ even say that you should only keep getting involved in the project as long as
 it brings you joy, if it still is fun.
 
 You can help remind people every once in a while that it does not matter if we
-wait a little longer for that feature to get implemented or that bug-fix to
+wait a little longer for that feature to get implemented or that bugfix to
 get done. Open Source is here for the long term. It will survive. It can
 wait. Someone else can help out.

@@ -28,8 +28,8 @@ accomplish this are:
 3. tests, tests, tests.
 4. CI system that run all tests before merge
 5. fuzzing and continuous tests of merged code
-6. be responsive on bug reports, add new tests with bug-fixes
-7. be responsive and friction-less when accepting bug-fixes
+6. be responsive on bug reports, add new tests with bugfixes
+7. be responsive and friction-less when accepting bugfixes
 8. run a bug bounty
 9. release often
 10. keep at it
