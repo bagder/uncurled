@@ -5,6 +5,8 @@ Archos
 BDFL
 Björn
 Bjørn
+bugfix
+bugfixes
 CLA
 CLA
 CLAs
@@ -48,6 +50,8 @@ POIs
 pre
 printf
 RCS
+roadmap
+Roadmaps
 Rockbox
 runtime
 Sagula
