@@ -5,6 +5,8 @@ Archos
 BDFL
 Björn
 Bjørn
+bugfix
+bugfixes
 CLA
 CLA
 CLAs
