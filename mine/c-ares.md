@@ -19,6 +19,9 @@ and instead I created **c-ares**. It would show its roots but not be the
 same. The `c` could be for curl, but it also made it into an English word like
 "cares" which was enough for me.
 
+The first c-ares release I did was called version 1.0.0, published in February
+2004.
+
 With c-ares, we could soon offer asynchronous name resolving for curl on a
 wide range of platforms, but of course there were other projects and users out
 in the world who felt a similar need. c-ares is deployed widely by many.
