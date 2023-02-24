@@ -21,7 +21,7 @@ that the problem still gets fixed and gets published within a reasonable time
 even when handled in private. Because a security problem can of course still
 be exploited and hurt users even before you have announced it to the world.
 
-Proponents of this model tend to favor shipping the bugfix sooner rather than
+Critics of this model tend to favor shipping the bugfix sooner rather than
 later in order to help minimize the time window for which bad guys can abuse
 the issue. That allows users to patch their systems sooner, but might also
 leave users who cannot patch their own systems (for whatever reason)
