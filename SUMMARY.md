@@ -66,6 +66,7 @@
   * [Security problems will appear](security/will-appear.md)
   * [Review, test, scan, verify](security/review.md)
   * [Bug Bounty](security/bug-bounty.md)
+  * [Responsible disclosure](security/disclosure.md)
 * [Maintainer](maintain.md)
   * [BDFL](maintain/bdfl.md)
   * [Security issues](maintain/security.md)
