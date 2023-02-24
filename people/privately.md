@@ -17,7 +17,6 @@ and are much better taken care of in public so that many people can learn from
 the response and many people can help out to provide the responses in the
 first place.
 
-I push back strongly on this behavior and either the user need to take the
+I push back strongly on this behavior and either the user needs to take the
 issue to the proper public forum, or ask for a support contract setup to
 maintain the private discussion.
-
