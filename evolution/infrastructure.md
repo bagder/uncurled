@@ -32,7 +32,7 @@ offers a whole selection of project management services in the same place in
 an integrated fashion. GitHub and Gitlab being two popular and known
 providers.
 
-Settting up a good and productive issue tracker for your project used to be
+Setting up a good and productive issue tracker for your project used to be
 complicated. It is not anymore.
 
 ## Version control
