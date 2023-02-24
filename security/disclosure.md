@@ -6,7 +6,7 @@ a fix and then disclose the problem to the world coordinated with the fix.
 
 A responsible disclose can also often involve pre-notifying distributors or
 vendors that ship your product so that they can be prepared and offer fixed
-versions to users on the very day you make the security problem known to
+versions to users on the same day you make the security problem known to
 everyone.
 
 I am a strong proponent of the responsible disclosure approach because of how
