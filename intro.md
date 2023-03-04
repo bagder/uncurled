@@ -1,6 +1,6 @@
 # Introduction
 
-I have started, lead and maintained many projects over several decades, out of
+I have started, led and maintained many projects over several decades, out of
 which the most known one is probably [the cURL project](https://curl.se) I
 founded and have been leading since 1998. I have contributed to and
 participated in many more projects and I have of course used and kept myself
