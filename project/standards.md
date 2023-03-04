@@ -8,7 +8,7 @@ a foundation for a world of software to interoperate.
 Protocols and standards are not created out of vacuum or invented by magicians
 just guessing how things should be done. They are created and updated by real
 world persons such as yourself. Standards also have bugs and flaws just like
-your software projects do. Standards also need to get those issue filed and
+your software projects do. Standards also need to get those issues filed and
 subsequently addressed in a future update.
 
 By getting involved in the standardization process of how protocols you work
