@@ -5,7 +5,7 @@ library situation for SSH support and I found that there existed two similar
 Open Source library contenders for this purpose, confusingly similarly named
 too: libssh2 and libssh.
 
-I wanted the SSH library to work with a non-blocking API to suit curl proper,
+I wanted the SSH library to work with a non-blocking API to suit curl properly,
 so I reached out to both the SSH library projects I had found and asked them
 about their current support and how they viewed the future and offered to work
 on providing such API and functionality myself. I thought the by far most
