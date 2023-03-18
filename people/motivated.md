@@ -13,6 +13,6 @@ perfect and perhaps over time turns out to be a rather half-baked way. Many
 are also the fixes that are "temporary" and then just never get around to get
 modified or fixed. And why change something that works?
 
-Not to mention that most project also have a list of things they would like to
+Not to mention that most projects also have a list of things they would like to
 change or fix one day but that nobody ever gets around to actually doing.
 
