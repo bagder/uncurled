@@ -26,7 +26,7 @@ the final urlget version (3.12) on March 14 1998, then renamed the tool to
 **curl** and did the first curl release almost a week later with a bumped
 version number. On Friday March 20, 1998 I shipped curl 4.0.
 
-It was only a toy project so of course it was still Open Source. I admired and
+It was only a toy project and of course it was Open Source. I admired and
 thought Open Source authors were cool and I wanted to be part of that group as
 well. I wanted curl to run everywhere and I knew that I would not be able to
 make it a universal tool on my own, nor would I alone be able to fix all bugs
