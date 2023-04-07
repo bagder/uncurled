@@ -1,7 +1,7 @@
 # Security issues
 
 Taking care of security issues can be a significant undertaking. See
-[security](../security.md)
+[security](../security.md).
 
 In my daily Open Source work, I find that when someone reports a suspected
 security problem, assessing the possibility, risk and impact of the issue can
