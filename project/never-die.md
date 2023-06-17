@@ -14,3 +14,15 @@ Often, slow-moving (or stuck) Linux distributions are blamed for this. "I am
 forced to use Linux Y with version Z so I have to use your software version
 X".
 
+## How I reply
+
+There is no right or wrong here and I expect just about every project to have
+their own answers and approaches when these kinds of users appear.
+
+I primarily refer people to the latest version, helping them understand that
+we have fixed numerous bugs since their version and that the latest is more
+secure etc and one we can answer further questions about etc. Explaining the
+situation.
+
+In some projects I might suggest a paid support contract could be a way for a
+developer to take on the problem with that ancient version.
