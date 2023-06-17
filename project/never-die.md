@@ -21,7 +21,7 @@ their own answers and approaches when these kinds of users appear.
 
 I primarily refer people to the latest version, helping them understand that
 we have fixed numerous bugs since their version and that the latest is more
-secure and recommend etc. Explaining the situation.
+secure and recommended etc. Explaining the situation.
 
 In some projects I might suggest a paid support contract could be a way for a
 developer to take on the problem with that ancient version.
