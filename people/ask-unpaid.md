@@ -14,3 +14,14 @@ This is not something that you can easily change. If you are the one asking
 the question: be aware and be grateful that people are actually helping you
 out. If possible, check if you can pay for support or maybe make your company
 a sponsor of the project as a show of your good will.
+
+## When you ask the question
+
+Remember that when you ask a developer or a team of developers to do something
+or to implement a feature in a project, it is a request, a wish, a desire, to
+see something change. You must understand that they may not agree that your
+idea is good. Their goals may not be aligned with yours. Also, unless you have
+a contract or offer to pay for their services, chances are they are spending
+spare time on development. If you ask in a professional role or as a
+representative of a company, you might be doing this on paid time while they
+are not.

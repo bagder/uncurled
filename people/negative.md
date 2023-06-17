@@ -1,4 +1,4 @@
-## Negative feedback
+# Negative feedback
 
 When writing and participating in Open Source projects, you can get quite a
 lot of feedback due to the open and publicly accessible nature of what you are
@@ -17,3 +17,10 @@ When it works, people are silent. When something fails, the crowds roar.
 
 It is good that you get to know about the problems, then you can work on
 fixing them!
+
+## When you provide the feedback
+
+As a user of Open Source, we should strive to remember to also tell developers
+and creators that we appreciate their hard work when things are working great
+and when the projects solve our problems as intended. We do not have to wait
+for things to fail to provide feedback.

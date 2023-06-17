@@ -26,3 +26,14 @@ those who have done nothing to deserve it.
 This way of delivering a message is bad and wrong, but you should still be
 prepared that it will happen.
 
+## When you provide the feedback
+
+Take a deep breath. Do not write that email if you still feel upset. Consider
+that the author of the tool most likely did their best even if you found a
+problem. They may have not considered your use case. They spent countless
+spare time hours and shared their code in the open for everyone to use.
+
+The least you can do is to be friendly and courteous when communicating. It
+also goes for when you report bugs and even if the people in the other end
+snap back at you or seem to imply that you are stupid. You can take the high
+ground.
