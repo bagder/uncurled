@@ -15,7 +15,7 @@ the question: be aware and be grateful that people are actually helping you
 out. If possible, check if you can pay for support or maybe make your company
 a sponsor of the project as a show of your good will.
 
-## When you ask the question
+## When you ask
 
 Remember that when you ask a developer or a team of developers to do something
 or to implement a feature in a project, it is a request, a wish, a desire, to
