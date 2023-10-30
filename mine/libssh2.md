@@ -25,6 +25,8 @@ I remain a maintainer of the libssh2 project, but I try to keep my activities
 to a minimum. Others do the real work there now.
 
 In OpenSSF's [criticality score](https://github.com/ossf/criticality_score)
-update in early 2021 where they rank how critical Open Source projects are to
-the world, they put libssh2 as #3222 out of 102,507.
+from early 2021 in which they grade how critical Open Source projects are to
+the world, they ranked libssh2 as #3222 out of 102,507 (in the top 3.1%).
 
+In their November 2022 update, libssh2 ranked #3283 out of 990,000 projects
+(in the top 0.33%).

@@ -45,5 +45,8 @@ commercial curl support and could finally work on curl full-time. Something of
 a dream that came true.
 
 In OpenSSF's [criticality score](https://github.com/ossf/criticality_score)
-update in early 2021 where they rank how critical Open Source projects are to
-the world, they put curl as #86 out of 102,507.
+from early 2021 in which they grade how critical Open Source projects are to
+the world, they ranked curl as #86 out of 102,507 (in the top 0.08%).
+
+In their November 2022 update, curl ranked #71 out of 990,000 projects (in the
+top 0.007%).

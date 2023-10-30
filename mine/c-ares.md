@@ -32,6 +32,7 @@ keep it up in this project as well. I still am a maintainer but I am not doing
 a lot.
 
 In OpenSSF's [criticality score](https://github.com/ossf/criticality_score)
-update in early 2021 where they rank how critical Open Source projects are to
-the world, they put c-ares as #2153 out of 102,507.
+from early 2021 in which they rank how critical Open Source projects are to
+the world, they ranked c-ares as #2153 out of 102,507 (in the top 2.1%)).
 
+In their November 2022 update, c-ares ranked #5324 of 999,000 (in the top 0.54%).
