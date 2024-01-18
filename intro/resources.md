@@ -1,6 +1,6 @@
 # Resources
 
-You find details about the author of this book, Daniel, on [his
+You can find details about the author of this book, Daniel, on [his
 site](https://daniel.haxx.se).
 
 The content in this book is maintained and updated in [its git
