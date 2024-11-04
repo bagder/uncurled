@@ -2,7 +2,7 @@
 
 Make no mistake. Your project will be judged and graded, not only how well the
 code runs when people execute it, but also based on how well you treat your
-users when come to you to ask questions.
+users when they come to you to ask questions.
 
 A user asking for help is a person who have deemed your project worthy to use,
 or at least potentially use if they get it working the way they intend it to
