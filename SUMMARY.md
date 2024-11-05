@@ -12,7 +12,7 @@
 * [Start](start.md)
   * [Your project](start/do-it.md)
   * [On license](start/license.md)
-  * [Attracting developers and community](start/attract.md)
+  * [Attracting developers](start/attract.md)
   * [Contributing](start/contributing.md)
 * [People](people.md)
   * [Negative feedback](people/negative.md)
