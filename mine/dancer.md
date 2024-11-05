@@ -24,9 +24,9 @@ language. This piece of code might be the oldest code I have ever released as
 Open Source, tracing back to maybe even before 1990.
 
 We worked on and developed Dancer intensively for several years. In the late
-1996, it struck me I should of course extend it so that it could exchange
-currency rates for us on command. How much is 100 SEK (Swedish crowns) in USD
-today? That was easy, but in order for the currency rates to be exact, I
-needed to download fresh rates from somewhere daily. I found an HTTP server
-that hosted rates, so I just needed a tool that could run on a schedule and
-download those updated numbers.
+1996, it struck me that I should add a feature that makes it offer currency
+exchange rates on command. How much is 100 SEK (Swedish crowns) in USD today?
+That was easy, but in order for the currency rates to be exact, I needed to
+download fresh rates from somewhere daily. I found an HTTP server that hosted
+rates, so I just needed a tool that could run on a schedule and download those
+updated numbers.
