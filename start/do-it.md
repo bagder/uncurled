@@ -1,6 +1,6 @@
 # Start your project
 
-As the old saying goes: *"perfect is the enemy of the good"*. Do not wait. Do
+As the old saying goes: *perfect is the enemy of the good*. Do not wait. Do
 not clean up your code first. Do not fall into the trap of "I just need to do
 this before I Open Source my project."
 
