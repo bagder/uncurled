@@ -18,3 +18,6 @@ explained by things like that the company does not want their competitors to
 so obviously spot that they use this project, but that seems like an odd and
 weak argument.
 
+Others maintain that companies use this approach to reduce the risk of getting
+sued, if the project or individuals in the project somehow turns out to be bad
+or can be used in undesired contexts.
