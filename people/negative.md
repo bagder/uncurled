@@ -16,7 +16,7 @@ criticism.
 When it works, people are silent. When something fails, the crowds roar.
 
 It is good that you get to know about the problems, then you can work on
-fixing them!
+fixing them.
 
 ## When you provide the feedback
 

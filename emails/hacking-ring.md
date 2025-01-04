@@ -16,7 +16,7 @@ tried to explain how curl is Open Source and I just provide it free for anyone
 to use and that I do not know anyone at Instagram just because they use my
 code.
 
-Before receiving that email, I had no idea Instagram used curl!
+Before receiving that email, I had no idea Instagram used curl.
 
 On January 19 2016, she writes again. This time she had apparently gotten
 "help" by a friend of hers and now she had more to say.
