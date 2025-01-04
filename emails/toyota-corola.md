@@ -64,7 +64,7 @@ occasional email about seemingly random car problems?
 
 ## Opel Insignia
 
-    Dear Daniel Stenberg!
+    Dear Daniel Stenberg
     My name is ****** ****** from Hungary. I write to you, because I have a
     problem with my cars Infotainment system, and I found your name in the
     vehicle instruction manual. I've bought a brand new Opel Insignia Sports

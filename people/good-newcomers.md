@@ -8,5 +8,5 @@ changes, remember that being new in the project does not necessarily imply that
 someone is a rookie in any other sense.
 
 Sometimes you get the best patches and help from people you never met before
-and who move on the next day never to come back. The open-source community
-can be a warm and fuzzy place!
+and who move on the next day never to come back. The open-source community can
+be a warm and fuzzy place.

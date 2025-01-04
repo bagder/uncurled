@@ -9,4 +9,4 @@ best way to get a feature into a project's mainline code.
 
 You will however rarely see a company offer to help with compensation for
 generic bugfixes or other infrastructure things or improvements in the
-project. And if you do, you know you are not in a small project anymore!
+project. If you do, you know you are not in a small project anymore.

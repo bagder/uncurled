@@ -50,4 +50,4 @@ about game related problems or services.
     Configuration) Supported Skills can only be used with Claws or
     Daggers looks like nightblade don't recognize that my varunastra counts
     as all weapon types i swapped varunastras for Rive claw for test, and
-    it's working flawlessly!
+    it's working flawlessly.
