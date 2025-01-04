@@ -29,6 +29,7 @@
   * [Contributors are mostly male white westerners](people/male-white.md)
   * [Lower the bar to attract more contributions](people/lower-bar.md)
   * [Code of Conduct](people/code-of-conduct.md)
+  * [Communication](people/communication.md)
 * [Project](project.md)
   * [Just a bunch of people](project/bunch.md)
   * [People come and go](project/come-and-go.md)
