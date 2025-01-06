@@ -1,4 +1,4 @@
-# Introduction
+# Uncurled
 
 I have started, led and maintained many projects over several decades, out of
 which the most known one is probably [the cURL project](https://curl.se) I
