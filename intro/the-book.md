@@ -1,4 +1,4 @@
-# Uncurled
+# How to read
 
 This book is divided into eleven separate sections based on topic, in which I
 talk about a set of specific Open Source items, questions or concerns.

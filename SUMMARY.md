@@ -1,7 +1,7 @@
 * [Uncurled](intro.md)
   * [Resources](intro/resources.md)
   * [Terms](intro/terms.md)
-  * [Uncurled](intro/the-book.md)
+  * [How to read](intro/the-book.md)
 * [Experience](mine.md)
   * [Dancer](mine/dancer.md)
   * [curl](mine/curl.md)
