@@ -23,5 +23,5 @@ nothing is forever. If data is important to you, make sure you export and/or
 back it up regularly so that it survives the death of your current platform of
 choice.
 
-Having dedictated, appointed, official communication channels helps users find
+Having dedicated, appointed, official communication channels helps users find
 the best place to ask questions and discuss ideas.
