@@ -26,6 +26,11 @@ those who have done nothing to deserve it.
 This way of delivering a message is bad and wrong, but you should still be
 prepared that it will happen.
 
+## Ban them
+
+Users who are over the line hostile or downright abusive deserve no place in
+your project. Ban them at once. For everyone's sake.
+
 ## When you provide the feedback
 
 Take a deep breath. Do not write that email if you still feel upset. Consider
