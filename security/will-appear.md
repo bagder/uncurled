@@ -24,3 +24,15 @@ sure that parts of your audience will react badly.
 They will think that because you published a security vulnerability, your
 project has a bigger problem of insecurity. As if not all actively developed
 projects get these problems, either open or proprietary.
+
+## Learn
+
+Every security incident is a chance to learn. Mistakes are for learning. Why
+did this error slip through and cause this problem? What code pattern can we
+detect or prohibit to prevent this or similar mistakes to happen again?
+
+This is hard. In my experience, most security problems feel like one-offs and
+rare circumstances that happened because of strange changes and your own
+stupidity. Seeing patterns and adjusting ways of working to prevent future
+flaws is difficult work but should always be attempted, to make the most out
+of every CVE.
