@@ -32,7 +32,7 @@ did this error slip through and cause this problem? What code pattern can we
 detect or prohibit to prevent this or similar mistakes to happen again?
 
 This is hard. In my experience, most security problems feel like one-offs and
-rare circumstances that happened because of strange changes and your own
-stupidity. Seeing patterns and adjusting ways of working to prevent future
-flaws is difficult work but should always be attempted, to make the most out
-of every CVE.
+rare circumstances that happened simply because of unintended consequences,
+lack of testing and your own stupidity. Seeing patterns and adjusting ways of
+working to prevent future flaws is difficult work but should always be
+attempted, to make the most out of every CVE.
