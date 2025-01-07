@@ -14,6 +14,7 @@ CLAs
 configs
 Corola
 cURL
+CVE
 CVEs
 distro
 distro's
