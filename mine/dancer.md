@@ -2,7 +2,7 @@
 
 Soon after I started a new software developer job in the autumn of 1993, I
 discovered IRC, Internet Relay Chat. I immediately joined channels (that is
-what "chat rooms" are called in IRC speak), socialized online and made friends
+what chat rooms are called in IRC speak), socialized online and made friends
 online with people from around the world.
 
 On IRC, I soon discovered that not all clients were actual users. Some of them
