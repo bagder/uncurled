@@ -2,6 +2,12 @@
   "ignorePatterns": [
     {
       "pattern": "^https://opensource.org/"
+    },
+    {
+      "pattern": "^https://www.rockbox.org"
+    },
+    {
+      "pattern": "^https://www.gnu.org/"
     }
   ]
 }
